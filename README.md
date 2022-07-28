@@ -1,10 +1,10 @@
 # Keep It Cool Man
 
-Open source repository for Keep It Cool Man (Doesn't cotain Music nor Voice files).
+An open source repository for Keep It Cool, Man game (excluding music and voice actor files).
 
-Made with Unity.
+Made with Unity 2022.1.1f1.
 
-[Game is available to play on steam for free](https://store.steampowered.com/app/2000320/Keep_it_Cool_Man/)
+[Game is available to play on Steam for free](https://store.steampowered.com/app/2000320/Keep_it_Cool_Man)
 
 
 ![ss_711af6c499591bdc462e3acd96e76715994284d2 1920x1080](https://user-images.githubusercontent.com/48364457/181496127-8f993ffa-4038-449a-b78f-c6aabc397a0e.jpg)
@@ -16,4 +16,4 @@ Made with Unity.
 ![ss_54de0377a7e372e634e527b0c3e5d32741f05e6e 600x338](https://user-images.githubusercontent.com/48364457/181496141-83bc62dc-f939-4452-a4ad-b15e222adc90.jpg)
 
 ## Building
-  To build you need unity version 2022.1.1f1.
+  To build you need Unity version 2022.1.1f1. You can create build that works on Windows (x64 and x86), Linux and MacOS (if you have installed Unity packages to build for specific platform of course).
