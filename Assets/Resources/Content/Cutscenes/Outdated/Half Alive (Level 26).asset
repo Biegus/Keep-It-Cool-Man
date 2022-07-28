@@ -1,0 +1,336 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Half Alive (Level 26)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      id: 0
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Let's nuke them.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: No, General. This is my last time warning you, I won't use any nukes.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: American people won't forgive you sir.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Forgive me for what? I am doing my best...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Earth has been saved already, my method worked.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I am asking you nicely, because...
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: Your dancing is destroying our country!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 2
+    type: 0
+    PlainContent:
+      Text: Men are no longer men, but women. And women are no longer women, but
+        men!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: And you... Mr. President... you don't have nuts.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: You can't insult President like this. That's outrageous!
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Maybe I am not like squirrel with high nutritional values in my mouth,
+        but...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I will not nuke people on Moon. General, think about our economy.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: You are only thinking about the money President. Enough for me of this
+        bullshit.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: (12 months ago...)
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 1
+    PlainContent:
+      Text: You are only thinking about the money President. Enough for me of this
+        bullshit.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: 'When Mr. President is off duty
+
+        General takes matters in
+        his hands...'
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Council, I need you to stop Mr. President and Scientist Rick.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 1
+    PlainContent:
+      Text: Council, I need you to stop Mr. President and Scientist Rick.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 5
+
+
+        <i>Operation Phoenix</i> '
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  simplified: "-> [_3] (12 months ago...) \n-> [General Sam] Let's nuke them.\n->
+    [Mr. President] No, General. This is my last time warning you, I won't use any
+    nukes.\n-> [General Sam] American people won't forgive you sir.\n-> [Mr. President]
+    Forgive me for what? I am doing my best...\n-> [Mr. President] Earth has been
+    saved already, my method worked.\n-> [General Sam] I am asking you nicely, because...\n->
+    [General Sam] Your dancing is destroying our country!\n-> [General Sam] Men are
+    no longer men, but women. And women are no longer women, but men!\n-> [General
+    Sam] And you... Mr. President... you don't have balls.\n-> [Scientist Rick] You
+    can't insult President like this. That's outrageous!\n"
+  references:
+    version: 1
+    00000000:
+      type: {class: , ns: , asm: }
+    00000001:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    00000002:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

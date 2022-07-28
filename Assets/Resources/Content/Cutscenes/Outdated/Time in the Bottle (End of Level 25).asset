@@ -1,0 +1,363 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Time in the Bottle (End of Level 25)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: '**'
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: <i>Message from Earth received</i>
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Hey dad!
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: As you can see I'm in high school now.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Life is moving... revolving really...around things...
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I met a girl, we... we are dating.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: And I really, really think that she is the one.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Yeah, oh and mom is a little bit nervous.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Sometimes she grabs a beer or two and locks in her room.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: Sometimes she grabs a beer and two and closes in her room...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But I try to tell her, that there is nothing to worry about, that you
+        are going to come back...
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: '*Message Ended*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: As you said in the past - keep it cool, man. Right?
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: '*Message Ended*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Now it would be a perfect time to tell your joke - the typical father
+        leaving to grocery to get milk...
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: '*Message Ended*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Though I'm not 2 years old anymore... to... you know... be in need to
+        drink milk... Ehh, I blew this joke...
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: '*Message Ended*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: 'Anyway, need to go. '
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Hope to see you soon or send me a video how you doing on the Mars.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: B... Bye.
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*Message from Earth Ended*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: '**'
+      Who: President's Son
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: <i>Message from Earth Ended</i>
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  simplified: "-> [_2] <i>Message from Earth received</i> \n-> [President's Son]
+    Hey dad!\n-> [President's Son] As you can see I'm in high school now.\n-> [President's
+    Son] Life is moving... revolving really...around things...\n-> [President's Son]
+    I met a girl, we... we are dating.\n-> [President's Son] And I really, really
+    think that she is the one.\n-> [President's Son] Yeah, oh and mom is a little
+    bit nervous.\n-> [President's Son] Sometimes she grabs a beer or two and locks
+    in her room.\n-> [President's Son] But I try to tell her, that there is nothing
+    to worry about, that you are going to come back...\n-> [President's Son] ...\n->
+    [President's Son] As you said in the past - keep it cool, man. Right?\n-> [President's
+    Son] ...\n-> [President's Son] Now it would be a perfect time to tell your joke
+    - the typical father leaving to grocery to get milk...\n-> [President's Son]
+    Though I'm not 2 years old anymore... to... you know... be in need to drink milk...
+    Ehh, I blew this joke...\n-> [President's Son] Anyway, need to go. \n-> [President's
+    Son] Hope to see you soon or send me a video how you doing on the Mars.\n-> [President's
+    Son] B... Bye.\n-> [_2] <i>Message from Earth Ended</i> \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: a8fce3aa95b4cc444907a3301cbd3311
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8408369134267414976
+    second: FragmentsOfMoon_0
+  - first:
+      213: -3589075622432263864
+    second: FragmentsOfMoon_1
+  - first:
+      213: 9200116017355585207
+    second: FragmentsOfMoon_2
+  - first:
+      213: -5626558100943510425
+    second: FragmentsOfMoon_3
+  - first:
+      213: -5317607996688397236
+    second: FragmentsOfMoon_4
+  - first:
+      213: -6032888424462116723
+    second: FragmentsOfMoon_5
+  - first:
+      213: -7271309012543613096
+    second: FragmentsOfMoon_6
+  - first:
+      213: -8919366689359566897
+    second: FragmentsOfMoon_7
+  - first:
+      213: 5357101494272243785
+    second: FragmentsOfMoon_8
+  - first:
+      213: 2177180641164487272
+    second: FragmentsOfMoon_9
+  - first:
+      213: -2793188508663680232
+    second: FragmentsOfMoon_10
+  - first:
+      213: -665432892456242864
+    second: FragmentsOfMoon_11
+  - first:
+      213: 1790991581834722254
+    second: FragmentsOfMoon_12
+  - first:
+      213: -8766155034985783303
+    second: FragmentsOfMoon_13
+  - first:
+      213: 5699622518882690192
+    second: FragmentsOfMoon_14
+  - first:
+      213: -2149280436933381354
+    second: FragmentsOfMoon_15
+  - first:
+      213: 7121480652908447245
+    second: FragmentsOfMoon_16
+  - first:
+      213: -1949062994163668330
+    second: FragmentsOfMoon_17
+  - first:
+      213: -1991574955297673969
+    second: FragmentsOfMoon_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FragmentsOfMoon_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1605
+        width: 502
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c1a362d87f4b80800000000000000
+      internalID: -8408369134267414976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1617
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84139e4bcba013ec0800000000000000
+      internalID: -3589075622432263864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_2
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1566
+        width: 266
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b67cd206c06daf70800000000000000
+      internalID: 9200116017355585207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_3
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1760
+        width: 137
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 47, w: 233}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7646a2dc7337ae1b0800000000000000
+      internalID: -5626558100943510425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_4
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1540
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c8c9e63bf0436b0800000000000000
+      internalID: -5317607996688397236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1284
+        width: 155
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889e5a01ffd64ca0800000000000000
+      internalID: -6032888424462116723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1388
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857dd376afe171b90800000000000000
+      internalID: -7271309012543613096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1051
+        width: 382
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7654bb04b083480800000000000000
+      internalID: -8919366689359566897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_8
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1310
+        width: 135
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948bfc70d6f385a40800000000000000
+      internalID: 5357101494272243785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1184
+        width: 292
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a67780246e63e10800000000000000
+      internalID: 2177180641164487272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 672
+        height: 1082
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 385, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813f56ea9d99c39d0800000000000000
+      internalID: -2793188508663680232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_11
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 957
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f8475f48e3c6f0800000000000000
+      internalID: -665432892456242864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_12
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 917
+        width: 137
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb39f6ca51ead810800000000000000
+      internalID: 1790991581834722254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_13
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 580
+        width: 427
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9ba5d07c585680800000000000000
+      internalID: -8766155034985783303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_14
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 681
+        width: 255
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 255, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094e1d7ab70291f40800000000000000
+      internalID: 5699622518882690192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_15
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 664
+        width: 233
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613b3e974d83c22e0800000000000000
+      internalID: -2149280436933381354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_16
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 362
+        width: 303
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06cc6f2ce494d260800000000000000
+      internalID: 7121480652908447245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 16
+        width: 462
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ae30c888983f4e0800000000000000
+      internalID: -1949062994163668330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FragmentsOfMoon_18
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 0
+        width: 565
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0deae541218c54e0800000000000000
+      internalID: -1991574955297673969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FragmentsOfMoon_5: -6032888424462116723
+      FragmentsOfMoon_9: 2177180641164487272
+      FragmentsOfMoon_6: -7271309012543613096
+      FragmentsOfMoon_8: 5357101494272243785
+      FragmentsOfMoon_14: 5699622518882690192
+      FragmentsOfMoon_3: -5626558100943510425
+      FragmentsOfMoon_11: -665432892456242864
+      FragmentsOfMoon_16: 7121480652908447245
+      FragmentsOfMoon_4: -5317607996688397236
+      FragmentsOfMoon_2: 9200116017355585207
+      FragmentsOfMoon_0: -8408369134267414976
+      FragmentsOfMoon_17: -1949062994163668330
+      FragmentsOfMoon_1: -3589075622432263864
+      FragmentsOfMoon_10: -2793188508663680232
+      FragmentsOfMoon_13: -8766155034985783303
+      FragmentsOfMoon_7: -8919366689359566897
+      FragmentsOfMoon_18: -1991574955297673969
+      FragmentsOfMoon_12: 1790991581834722254
+      FragmentsOfMoon_15: -2149280436933381354
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

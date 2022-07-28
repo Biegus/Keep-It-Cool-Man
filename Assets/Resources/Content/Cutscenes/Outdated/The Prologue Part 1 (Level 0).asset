@@ -1,0 +1,374 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: The Prologue Part 1 (Level 0)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: :shakeavatar@ <i><color=#F7B32B>Mr. President</color> is calling...</i>
+      Who: Phone Call
+      Sprite: {fileID: 21300000, guid: 8270f58258d5f1d4692f23c50e3d7f9f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Oh, hello:pause_0.6@? Mr. President?
+      Who: Some Scientist
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Why your phone buzzes like a fridge, sir?
+      Who: Some Scientist
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: <color=#F7B32B>Rick</color>! There are...:pause_0.6@ *inaudiable* coming.
+        WE ALL GONNA:pause_0.7@ *inaudiable* HERE!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: Meanwhile...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What? I can't hear you sir! Hello?!
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I guess his call died out.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Ehh... anyways. It's time to finish my opus magnum machine.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 6780328133937070080
+    type: 0
+    PlainContent:
+      Text: JARVIS, launch project X25920ZY!
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Shit I forgot that I am not as rich as Tony Clark.. or was it...:pause_0.2@
+        Stark?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: Meanwhile...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Damn, I never lose my head like this...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: Meanwhile...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Cheaper Jarvis called <color=#F7B32B>Jukelexa</color>, activate the X25920ZY
+        project.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: Meanwhile...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Activating <color=#F7B32B><i>anime girls theme song dancing</i></color>
+        codename project.
+      Who: Jukelexa
+      Sprite: {fileID: 21300000, guid: 6472c3c4f2449634ab0e359469556dd7, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Oh crap, I should have changed that name earlier.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Finally, a little break before coming down to the lab.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I should check first if anything is:speed_2.3@ coming with highly dangerous
+        speed to Earth:speed_0.4@, but pfff...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What are the odds that something is flying onto Earth right now?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Exactly, none.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: Meanwhile...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: What are the odds that something is flying onto Earth right now? Exactly,
+        none.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: 'Meanwhile...  '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  back: -1
+  simplified: "-> [Phone Call] :shakeavatar@ <i><color=#F7B32B>Mr. President</color>
+    is calling...</i>\n-> [Some Scientist] Oh, hello:pause_0.6@? Mr. President?\n->
+    [Some Scientist] Why your phone buzzes like a fridge, sir?\n-> [Mr. President]
+    <color=#F7B32B>Rick</color>! There are...:pause_0.6@ *inaudiable* coming. WE
+    ALL GONNA:pause_0.7@ *inaudiable* HERE!\n-> [Scientist Rick] What? I can't hear
+    you sir! Hello?!\n-> [Scientist Rick] I guess his call died out.\n-> [Scientist
+    Rick] Ehh... anyways. It's time to finish my opus magnum machine.\n-> [Scientist
+    Rick] JARVIS, launch project X25920ZY!\n-> [Scientist Rick] Shit I forgot that
+    I am not as rich as Tony Clark.. or was it...:pause_0.2@ Stark?\n-> [Scientist
+    Rick] Damn, I never lose my head like this...\n-> [Scientist Rick] Cheaper Jarvis
+    called <color=#F7B32B>Jukelexa</color>, activate the X25920ZY project.\n-> [Jukelexa]
+    Activating <color=#F7B32B><i>anime girls theme song dancing</i></color> codename
+    project.\n-> [Scientist Rick] Oh crap, I should have changed that name earlier.\n->
+    [Scientist Rick] Finally, a little break before coming down to the lab.\n-> [Scientist
+    Rick] I should check first if anything is:speed_2.3@ coming with highly dangerous
+    speed to Earth:speed_0.4@, but pfff...\n-> [Scientist Rick] What are the odds
+    that something is flying onto Earth right now?\n-> [Scientist Rick] Exactly,
+    none.\n-> [_1] Meanwhile...   \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 6780328133937070080
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

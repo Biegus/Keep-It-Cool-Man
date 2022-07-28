@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv_2_7 WtfRockets
+  m_EditorClassIdentifier: 
+  preCutscene: {fileID: 0}
+  afterCutscene: {fileID: 0}
+  background: {fileID: 0}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: d2832f7b8f94c314bb91a3a2c12f7e4d, type: 2}
+  phases:
+    array:
+    - legacyTime: 5
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: c145e9a9109caa8409c742495a508eb1, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 0
+      spawnCooldown: 1.2
+      phaseName: 
+    - legacyTime: 25
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: c145e9a9109caa8409c742495a508eb1, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1.5
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 933c7a60baae8db46932378e159bfa32, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 1
+      spawnCooldown: 0.95
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 0e1eb09ad75703646a5aa87fb275a5cc, type: 3}
+    buildIndex: 4
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 5
+  angleError: 12
+  startText: 
+  skip: 0
+  levelName: Not Our Rockets?!
+  editorSelectedPhase: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 1.2
+        time: 5
+    - rid: 1
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.95
+        time: 25

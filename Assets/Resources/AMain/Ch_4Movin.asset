@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615f1ea7a8a441fd92262944a39d7d54, type: 3}
+  m_Name: Ch_4Movin
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: c15622c951ffd6542ae1734e60431a7b, type: 2}
+  - {fileID: 11400000, guid: 18606f004715aac49a75c369f4cbd446, type: 2}
+  - {fileID: 11400000, guid: 0f0ab076de4991f4eb19e47e7a75ac5a, type: 2}
+  - {fileID: 11400000, guid: 2a833ea00d0e2f74d81873515a847c4f, type: 2}
+  defaultLevelPath: Assets/Resources/Content/Levels/4.Movin

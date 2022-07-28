@@ -1,0 +1,438 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Alphabet God vs Nuke (Level 7)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Welcome to the Warm Show! Where we combine news and weather.\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 3c8c50c07885ba94a82dba571133bf15, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Now, Susan will tell you the weather forecast for the Moon...\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 0a2740830023120499e8a3164dfe42d4, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Bring it on! (That's what she said, haha)\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 48ff26fcdaff23c4c858d45dd5a01181, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "What have we got here gentlemen?\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: f96b5b98fc2168249a4f38e6cc059555, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: "\"Letters... they are back again...\"\n "
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: What? Stop pranking me, Jeremy...
+      Who: Journalist Jamie
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: "\"Letters... they are back again...\"\n    \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "What? Stop pranking me Jeremy...\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: f33ed9e772e383743b7eebca0267e0a6, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "And why are you all standing here looking at this scre...\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: d69d8c8e251770c43be2926918f4308d, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: :changeback_0@Ladies and gentlemen... it happened... again, but this
+        time letters are attacking the Moon.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 936ddca684def464d9180919712b67fa, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":changeback_1@Oh...\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 1bc3b8fc4b0707f45baafdc76c82a29f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":changeback_0@Why is the president not here? Well.. he has... an urgent
+        matter to discuss, regarding the letters.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: c7aa6ac545c89d34eb0f9553aace3089, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 1
+    type: 0
+    PlainContent:
+      Text: ":changeback_1@We are all going to die, people!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 49386042c351927478bb900a8d4a8382, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 2
+    type: 0
+    PlainContent:
+      Text: "They were right! Everyone... the <color=#F7B32B>Alphabet God</color>
+        is real!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 9e0b048911f04c142bc9b993134e383d, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 3
+    type: 0
+    PlainContent:
+      Text: "We need to worship him, it's our only chance!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 3a1c8105b9ce3ea4aab9d3533b24ccc7, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 4
+    type: 0
+    PlainContent:
+      Text: "Look up people, see what's going on!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 4a1d9a34745ec094cb8c555db61dc7cb, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5
+    type: 0
+    PlainContent:
+      Text: "He is angry at us because we screwed up!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 638102409b3f2e64b8c4765139d44412, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 6
+    type: 0
+    PlainContent:
+      Text: "We just didn't pray enough!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: ae906913d5045104082b03c666da59a4, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 7
+    type: 0
+    PlainContent:
+      Text: "I'm out of here! I want to spend my last days with my family!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 4341a42ebd2c09848a0fc4b849d5561b, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "I wanna... live... life... \r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 9793f4ba6871c9146a7002da3ddb8600, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 6780328149476442112
+    type: 0
+    PlainContent:
+      Text: "JESUS CHR... I MEAN... FOR LETTER\u2019S SAKE! IT'S THE END... LIKE
+        THE END END\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 693f2d7d93d173445a41b7112463d2fc, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [_3] 6 months later...  \n-> [Journalist Jamie] Welcome to the
+    Warm Show! Where we combine news and weather.\n-> [Journalist Jamie] Now, Susan
+    will tell you the weather forecast for the Moon...\n-> [Journalist Jamie] Bring
+    it on! (That's what she said, haha)\n-> [Journalist Jamie] What have we got here
+    gentlemen?\n-> [_2] \"Letters... they are back again...\"\\n     \n-> [Journalist
+    Jamie] What? Stop pranking me Jeremy...\n-> [Journalist Jamie] And why are you
+    all standing here looking at this scre...\n-> [Scientist Rick] :changeback_0@Ladies
+    and gentlemen... it happened... again, but this time letters are attacking Moon.\n->
+    [Journalist Jamie] :changeback_1@Oh...\n-> [Scientist Rick] :changeback_0@Why
+    is the president not here? Well.. he has... an urgent matter to discuss, regarding
+    the letters.\n-> [Journalist Jamie] :changeback_1@We are all going to die, people!\n->
+    [Journalist Jamie] They were right! Everyone... the <color=#F7B32B>Alphabet God</color>
+    is real!\n-> [Journalist Jamie] We need to worship him, it's our only chance!\n->
+    [Journalist Jamie] Look up people, see what's going on!\n-> [Journalist Jamie]
+    He is angry at us because we screwed up!\n-> [Journalist Jamie] We just didn't
+    pray enough!\n-> [Journalist Jamie] I'm out of here! I want to spend my last
+    days with my family!\n-> [Journalist Jamie] I wanna... live... life... \n-> [Journalist
+    Jamie] JESUS CHR... I MEAN... FOR LETTER\u2019S SAKE! IT'S THE END... LIKE THE
+    END END\n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 2
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 3
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 4
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 5
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 6
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 7
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 6780328149476442112
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0

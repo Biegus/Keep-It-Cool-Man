@@ -1,0 +1,490 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Journalist Jamie (Level 3)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Welcome to Warm News, the warmest news under the sun. Tonight we have
+        a very special guest..
+      Who: Scummy Journalist
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: ecf1783a6faf8e54180222289054a1d3, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Mr. President from Washington D.C!\r"
+      Who: Scummy Journalist
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 7391d42c310329b4689f53f227f71d56, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: 'Thank you for bringing me on to your talk show, Jamie.
+
+'
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 763287040427d264ba07bfbd7e245f58, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "So, Mr. President, can you tell the American people why you are making
+        them dance?\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 11bf70ffde6dc2f46ae79c21f88feabd, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Well, I don't know if you have noticed, but there are many questions
+        surrounding us.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 479e7826c6036c141a608bc78185cc3f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "And I mean literally... around the Earth...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 8b980bb2a9893a043b4f0dd16e2f36fc, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Our only weapon to destroy these questions is dancing.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: d5c00e4e9c5dc0d47b68e04d9a3bf936, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 1
+    type: 0
+    PlainContent:
+      Text: "Dancing? So you treat people like monkeys, Mr. President?!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 41b8b04604e393f41b72f6a12934f675, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 2
+    type: 0
+    PlainContent:
+      Text: "Why can't you use the arsenal from the American military?\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 642beb5d6faac3e4ea5fd0f32f1375db, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "I... can't explain it at the moment...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: e23d3a5bab991af48a27000db13f40ff, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":shakeavatar@ <i>Scientist Rick is calling...</i>\r"
+      Who: Phone Call
+      Sprite: {fileID: 21300000, guid: 8270f58258d5f1d4692f23c50e3d7f9f, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Excuse me for a second...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 1530f4bda7523ce4a8f24e547b820151, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 4031292350026219520
+    type: 0
+    PlainContent:
+      Text: "Mr. President, every investor is leaving the Earth!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 4de0a77dfced6c74086f34a00616dcde, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 4031292350026219521
+    type: 0
+    PlainContent:
+      Text: "They are moving to the Moon, because of the word panic!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: a0fdf65074151ed4a8676a7b2d37f194, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 4031292350026219522
+    type: 0
+    PlainContent:
+      Text: "What did you say on the news?!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: a810e0c010e5c8142b775a5a65c901fc, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "That... I can't explain it.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 54b49ddc495296445a3c2b83abd1fe1f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "It's the same situation as with Kunduz... crap, we are trapped...\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: dd8b610b689202b458149c062f3515b9, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Leave the studio! Now!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 79c4f6aaa9bacb0499ba8aa0d34b1d79, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "No Rick, I can't leave the American people without any information.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: ec1b4de527aa9a94393c25ca6638cf30, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 3
+    type: 0
+    PlainContent:
+      Text: "MR. PRESIDENT NO! DON'T GO IN THERE!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: b7c516dab8d168a4bb4fb9b55383d9c5, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: '-> [Scummy Journalist] Welcome to Warm News, the warmest news under
+    the sun. Tonight we have a special guest...
+
+    -> [Scummy Journalist] Mr. President
+    from Washington D.C!
+
+    -> [Mr. President] Thank you for bringing me to your
+    talk show, Jamie.
+
+    -> [Journalist Jamie] So, Mr. President, can you tell
+    the American people why you are making them dance?
+
+    -> [Mr. President] Well,
+    I don''t know if you have noticed, but there are many questions surrounding us.
+
+    ->
+    [Mr. President] And I mean literally... around the Earth...
+
+    -> [Mr. President]
+    Our only weapon to destroy these questions is to dance.
+
+    -> [Journalist Jamie]
+    Dance? So you treat people like monkeys, Mr. President?!
+
+    -> [Journalist
+    Jamie] Why can''t you use the arsenal from the American military?
+
+    -> [Mr.
+    President] I... can''t explain it at the moment...
+
+    -> [Phone Call] <i>Scientist
+    Rick is calling...</i>
+
+    -> [Mr. President] Excuse me for a second...
+
+    ->
+    [Scientist Rick] Mr. President, every investor is leaving the Earth!
+
+    ->
+    [Scientist Rick] They are moving to the Moon, because of the word panic!
+
+    ->
+    [Scientist Rick] What did you say on the news?!
+
+    -> [Mr. President] That...
+    I can''t explain it.
+
+    -> [Scientist Rick] It''s the same situation as with
+    Kunduz... crap, we are trapped...
+
+    -> [Scientist Rick] Leave the studio!
+    Now!
+
+    -> [Mr. President] No Rick, I can''t leave the American people without
+    any information.
+
+    -> [Scientist Rick] MR. PRESIDENT NO! DON''T GO IN THERE!
+
+'
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 2
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 3
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 4031292350026219520
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 4031292350026219521
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 4031292350026219522
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0

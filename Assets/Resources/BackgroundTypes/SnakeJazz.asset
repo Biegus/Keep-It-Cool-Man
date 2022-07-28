@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a2ece0d19264e4ea7354368304a6dbd, type: 3}
+  m_Name: SnakeJazz
+  m_EditorClassIdentifier: 
+  spawnRate: {x: 5.25, y: 7.85}
+  backgroundObjects:
+  - prefab: {fileID: 5216532941638957626, guid: 6d3e6a13c7e45f3488fbc4bc6ac97e1d, type: 3}
+    frequency: 0.85
+    spawnSides: 2147483647
+    spawnPosVariation: {x: 3, y: 3}
+    angleVariation: 10
+  - prefab: {fileID: 5216532941638957626, guid: baa050f2aeacee84386a2452931f0c3b, type: 3}
+    frequency: 0.35
+    spawnSides: 2147483647
+    spawnPosVariation: {x: 4, y: 4}
+    angleVariation: 20
+  - prefab: {fileID: 5216532941638957626, guid: bbf6c7b0e01648f4fbac995adf87c4a1, type: 3}
+    frequency: 0.25
+    spawnSides: 2147483647
+    spawnPosVariation: {x: 2, y: 2}
+    angleVariation: 30

@@ -1,0 +1,366 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Marketing the Nuke (Level 23)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: He is rulling the Earth now.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: '<i>Meanwhile on Earth...</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: 2
+    type: 0
+    PlainContent:
+      Text: American people!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: fe5bbc97ac499d34cb3b5db7e6f22a7a, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: Meanwhile on Earth...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 3
+    type: 0
+    PlainContent:
+      Text: It's time to use our full blown military force!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 88a70d3204d241f4faab6e06e1e8dc43, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: Meanwhile on Earth...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Look at our president...
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 6966e42ea98259b4c839fd112c4c9b7e, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: Meanwhile on Earth...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: He made us dance...
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 67fa92d31acb7c74db76692bb986de39, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: Meanwhile on Earth...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 6
+    type: 0
+    PlainContent:
+      Text: BUT WE WON'T DANCE AT OUR OWN FUNERAL!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 49b0012e9b939fe4f87d67f4b746ad16, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: Meanwhile on Earth...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: You want to know how he came up with the idea of connecting Earth and
+        Moon?
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: b5e580bd5d24d6a4b8320f3f8fe9d200, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 8
+    type: 0
+    PlainContent:
+      Text: HE WAS SHITTING HIS PANTS DURING THIS!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: d097f83b404b59f438cc8971ffe10999, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: Meanwhile on Earth...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: And what would your ancestors do?
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 1f9aa5cf35433a84d8da4dff428ab39f, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Would they dance on the graves of their ancestors?! Huh?!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 327ae8c3849a9c14f933154119a5500a, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop* '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 1587858214865600514
+    type: 0
+    PlainContent:
+      Text: Screw the president
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: f239549f285b6704688f7352ef4159ac, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 9
+    type: 0
+    PlainContent:
+      Text: And today as I stand here with my wife, Susan...
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: ffb798cb763f0894695cc0816ec898ae, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: WE SAY NO...
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 31d315f6b22b1ab4eb744c2c1e95d2e5, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 1
+    type: 0
+    PlainContent:
+      Text: TO OUR FINAL DANCE!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 31e975a4e6f4bde4b90c2465e1139d31, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Susan, honey...
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 32b0f2eafbc75b645915e0b38d1c735f, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: LAUNCH THE NUKES!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: b34dd1f64322b5f409fc63d8547ff7cc, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*mic drop*'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [_3] <i>Meanwhile on Earth...</i>  \n-> [General Sam] American
+    people!\n-> [General Sam] It's time to use our full blown military force!\n->
+    [General Sam] Look at our president...\n-> [General Sam] He made us dance...\n->
+    [General Sam] BUT WE WON'T DANCE AT OUR OWN FUNERAL!\n-> [General Sam] You want
+    to know how he came up with the idea of connecting Earth and Moon?\n-> [General
+    Sam] HE WAS SHITTING HIS PANTS DURING THIS!\n-> [General Sam] And what would
+    your ancestors do?\n-> [General Sam] Would they dance on the graves of their
+    ancestors?! Huh?!\n-> [General Sam] Screw the president, it's time for us to
+    take things into our hands!\n-> [General Sam] And today as I stand here with
+    my wife, Susan...\n-> [General Sam] WE SAY NO...\n-> [General Sam] TO OUR FINAL
+    DANCE!\n-> [General Sam] Susan, honey...\n-> [General Sam] LAUNCH THE NUKES!\n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 2
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 3
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 6
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 8
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 9
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 1587858214865600514
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

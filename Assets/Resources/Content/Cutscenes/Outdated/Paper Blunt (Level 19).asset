@@ -1,0 +1,415 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Paper Blunt (Level 19)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      id: 0
+    type: 1
+    PlainContent:
+      Text: They hung up, that's bad.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '*phone call*'
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Hello? I want to order a Hawaiian pizza with this yellow thing on top...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Oh, council... No, I was just joking around to loose the atmosphere.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Of course, y... yes.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: The thing is...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: How can I say this...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I can't find words...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: No, I'm not drunk dear council!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: It's just... I don't think I might be wrong.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: But please... hear me out.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I did a research with one of my scientists Rick.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: We came up with theory that dancing can actually stop the apocalypse,
+        besides being substitute for generator.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: No, I am not crazy. Listen, here is a thing...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Excuse me?!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: No, the nuke can destroy half of human race. It won't be a permanent
+        solution, more temporary one.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I get that you are in panic dear council and in panic it's very hard
+        to make reasonable decisions.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: So what I suggest... is... to...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: KEEP IT COOL
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I'm sorry, I don't know why I screamed this set of sentence.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: 'Yes, I''m completely serious about this issue. '
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: THAT'S WHY LET'S DANCE ON MY ANIME DANCING MACHINE.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: I...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: They hung up, that's bad.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  simplified: 
+  references:
+    version: 1
+    00000000:
+      type: {class: , ns: , asm: }

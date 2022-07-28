@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv6_Indecisive
+  m_EditorClassIdentifier: 
+  preCutscene: {fileID: 0}
+  afterCutscene: {fileID: 0}
+  background: {fileID: 11400000, guid: 52020721726735d4eaf4f388e47d0355, type: 2}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: d2832f7b8f94c314bb91a3a2c12f7e4d, type: 2}
+  phases:
+    array:
+    - legacyTime: 5
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 06d3f2444cab59c44b8a4c3736b89f5d, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 0
+      spawnCooldown: 0.8
+      phaseName: 
+    - legacyTime: 15
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: cebb657badccef1429cf24a5b743dcff, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 5f5f5cfc03de6cf47a83f8c6f8462a98, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 5a0ed93eaa642de468b13751c16664ec, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 1
+      spawnCooldown: 0.65
+      phaseName: 
+    - legacyTime: 10
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: cebb657badccef1429cf24a5b743dcff, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 5f5f5cfc03de6cf47a83f8c6f8462a98, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 5a0ed93eaa642de468b13751c16664ec, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 06d3f2444cab59c44b8a4c3736b89f5d, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 3
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 2
+      spawnCooldown: 0.65
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 3036af0299b9f6f47947a2f3746a1b60, type: 3}
+    buildIndex: 2
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 7
+  angleError: 10
+  startText: 
+  skip: 0
+  levelName: Indecisive Lightspeed
+  editorSelectedPhase: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.8
+        time: 5
+    - rid: 1
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.65
+        time: 15
+    - rid: 2
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.65
+        time: 10

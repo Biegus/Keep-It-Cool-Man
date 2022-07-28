@@ -1,0 +1,440 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: President Stroke (Level 15)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Alright gentlemen, what do we have here?\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 47025e5fdeac9eb46b19b15bbb00bb33, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Earth... it\u2019s happening\u2026 again...\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: f79b6f18acd69dd408ec72dfa03fcc1b, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677243978064068610
+    type: 0
+    PlainContent:
+      Text: MR. PRESIDENT!
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: ae0b76a9855379a4a9815cb63e8b014c, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 991395771149713418
+    type: 0
+    PlainContent:
+      Text: "CAN YOU TELL THE AMERICAN PEOPLE FROM EARTH WHY ARE YOU STILL ON THE
+        MOON?\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 54552f53532ccee4284c548bb578436e, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: "Start of Chapter 3\n\n<i>Operation Spaceballs</i>  \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 1
+      newBackValue: 2
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Mr. President... Earth has been attacked again by the letters.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 6dd63c1ee49368b4fb14953ed96cf781, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Again? How many times will this happen...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: d727e9f52d84b4f40a3ec3e1f545e0f4, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Keep it cool, President. I have told them everything already.\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 19ec998f7dd3fc74e89e46acc8879a50, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "They will prepare the battle spaceship and we will leave the damn Moon
+        as soon as possible!\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: a27e5b47aff083d40ab7230cf53075cd, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "General no. We can't leave Moon with our investors alone.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: b50ab211fd7791d4785466acd735a962, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "But... on the other hand, we can't leave the American people on Earth
+        to die...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 32e4cb60e27b7b143b11068d9a755963, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677243978064068611
+    type: 0
+    PlainContent:
+      Text: "MR. PRESIDENT, IT'S BEEN 2 MINUTES SINCE THE LETTERS ATTACKED! WHAT'S
+        THE RESPONSE?! HUH?!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 21b3c7be60f823341aaa577084a835c0, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "This is the only solution, Mr. President.\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 9d6fa18f4df0fc849951db16a5efbde8, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Mr. President...\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: ccb000afec1ced940a1fc9f7bf587a77, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "I can't handle it! I need some fresh air!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 315050c9baef6b1498f24ca4483e6afc, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: I can't handle it! I need some fresh air!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: "IN THE TOILET...  \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Okay, what to do... what to do...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: a129380b07d665445a8f492d84e7c9c2, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: IN TOILET...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Damn, I shouldn't drink so much water...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: aae9e7502fbd54847bf4084dc7903d8c, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: IN TOILET...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Wait a minute... what if... HOLY CRAP, I HAVE AN IDEA!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 16334a24f5fc84d439c034b4afc26b1c, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: IN TOILET...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677243978064068612
+    type: 0
+    PlainContent:
+      Text: "LET'S CONNECT THE EARTH AND THE MOON!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: ccc37dba8a4caf848b8e2850fa46a9a7, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: IN TOILET...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: LET'S CONNECT EARTH AND MOON!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: "Start of Chapter 3\n\n<i>Operation Spaceballs</i>  \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 1
+      newBackValue: 2
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: 1
+  simplified: "-> [Mr. President] Alright gentlemen, what do we have here?\n-> [Scientist
+    Rick] Earth... it\u2019s happening\u2026 again...\n-> [Journalist Jamie] MR.
+    PRESIDENT!\n-> [Journalist Jamie] CAN YOU TELL THE AMERICAN PEOPLE FROM EARTH
+    WHY ARE YOU STILL ON THE MOON?\n-> [Scientist Rick] Mr. President... Earth has
+    been attacked again by the letters.\n-> [Mr. President] Again? How many times
+    will this happen...\n-> [General Sam] Keep it cool, President. I have told them
+    everything already.\n-> [General Sam] They will prepare the battle spaceship
+    and we will leave the damn Moon as soon as possible!\n-> [Mr. President] General
+    no. We can't leave Moon with our investors alone.\n-> [Mr. President] But...
+    on the other hand, we can't leave the American people on Earth to die...\n->
+    [Journalist Jamie] MR. PRESIDENT, IT'S BEEN 2 MINUTES SINCE THE LETTERS ATTACKED!
+    WHAT'S THE RESPONSE?! HUH?!\n-> [General Sam] This is the only solution, Mr.
+    President.\n-> [Scientist Rick] Mr. President...\n-> [Mr. President] I can't
+    handle it! I need some fresh air!\n-> [_2] IN THE TOILET...   \n-> [Mr. President]
+    Okay, what to do... what to do...\n-> [Mr. President] Damn, I shouldn't drink
+    so much water...\n-> [Mr. President] Wait a minute... what if... HOLY CRAP, I
+    HAVE AN IDEA!\n-> [Mr. President] LET'S CONNECT THE EARTH AND THE MOON!\n-> [_4]
+    Start of Chapter 3\\n\\n<i>Operation Spaceballs</i>   \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 991395771149713418
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5677243978064068610
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5677243978064068611
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5677243978064068612
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

@@ -1,0 +1,703 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Wormhole (Level 25)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What's the fuss all about?
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: Sometime before...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: It's like a storm on the sea...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But instead of losing days, we would fast travel to many... many Earth
+        years.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: Sometime before...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: How many years we are talking about?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: Sometime before...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Twe... Twenty something...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: Sometime before...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5866145300985151499
+    type: 0
+    PlainContent:
+      Text: So we will be gone for 20 years? Oh god, that's a lot...
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: Sometime before...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Mr. President?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5866145300985151500
+    type: 0
+    PlainContent:
+      Text: We all gonna die!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5866145300985151501
+    type: 0
+    PlainContent:
+      Text: Jamie, you were right!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Sir, I told you that this mission will be suicidal.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: We can't come back to home, because the Mars will be destroyed...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But also, the wormhole will swollen us and the letters...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: It seems that we have no choice, not anymore.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What if we fail...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Sir, honestly... we can't fail.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I am gonna say something briefly... get your shit together Mr. President.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I am worried...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: About my family...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: About the nukes that General is about to launch...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: You can tell your family now... we still have a connection...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I sent them a message already that the situation is unclear and they
+        are being transported to Europe.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But god... they won't see me for 20 years...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: That's one fourth of lifetime according to American statistics...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: This is not Interstellar bootleg movie, Mr. President.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But... I won't see my son growing up...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: And become better person than me...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Why do I care about my life?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: There is much... much more than my life.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I am shortsighted.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Then buy glasses like Rick and stop being such a baby.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: '"Oh, the world is ending, I am now an altruist and social activist...
+        boo hoo..."'
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  simplified: '-> [Journalist Jamie] What''s the fuss all about?
+
+    -> [Scientist
+    Rick] It''s like a storm on the sea...
+
+    -> [Scientist Rick] But instead of
+    losing days, we would fast travel to many... many Earth years.
+
+    -> [Mr. President]
+    How many years we are talking about?
+
+    -> [Scientist Rick] Twe... Twenty something...
+
+    ->
+    [Journalist Jamie] So we will be gone for 20 years? Oh god, that''s a lot...
+
+    ->
+    [Scientist Rick] Mr. President?
+
+    -> [Mr. President] We all gonna die!
+
+    ->
+    [Mr. President] Jamie, you were right!
+
+    -> [Scientist Rick] Sir, I told you
+    that this mission will be suicidal.
+
+    -> [Scientist Rick] We can''t come back
+    to home, because the Mars will be destroyed...
+
+    -> [Scientist Rick] But also,
+    the wormhole will swollen us and the letters...
+
+    -> [Scientist Rick] It seems
+    that we have no choice, not anymore.
+
+    -> [Mr. President] What if we fail...
+
+    ->
+    [Scientist Rick] Sir, honestly... we can''t fail.
+
+    -> [Scientist Rick] I
+    am gonna say something briefly... get your shit together Mr. President.
+
+    ->
+    [Mr. President] I am worried...
+
+    -> [Mr. President] About my family...
+
+    ->
+    [Mr. President] About the nukes that General is about to launch...
+
+    -> [Scientist
+    Rick] You can tell your family now... we still have a connection...
+
+    -> [Mr.
+    President] I sent them a message already that the situation is unclear and they
+    are being transported to Europe.
+
+    -> [Mr. President] But god... they won''t
+    see me for 20 years...
+
+    -> [Mr. President] That''s one fourth of lifetime
+    according to American statistics...
+
+    -> [Scientist Rick] This is not Interstellar
+    bootleg movie, Mr. President.
+
+    -> [Mr. President] But... I won''t see my
+    son growing up...
+
+    -> [Mr. President] And become better person than me...
+
+    ->
+    [Mr. President] Why do I care about my life?
+
+    -> [Mr. President] There is
+    much... much more than my life.
+
+    -> [Mr. President] I am shortsighted.
+
+    ->
+    [Journalist Jamie] Then buy glasses like Rick and stop being such a baby.
+
+    ->
+    [Journalist Jamie] "Oh, the world is ending, I am now an altruist and social
+    activist... boo hoo..."
+
+    -> [Mr. President] ...
+
+'
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 5866145300985151499
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5866145300985151500
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5866145300985151501
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

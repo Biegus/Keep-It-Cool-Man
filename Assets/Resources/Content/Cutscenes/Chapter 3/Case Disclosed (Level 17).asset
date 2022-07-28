@@ -1,0 +1,426 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Case Disclosed (Level 17)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":changeback_2@There are too many of them!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: a934f9ed83a251b499ef91d7d2c77c6b, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Do we have a B plan, Rick?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 3a7e6c862f573d646b3eb29eaf1dc64f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 1
+    type: 0
+    PlainContent:
+      Text: "WATCH OUT SIR, THERE IS A BIG <color=#E3170A>B</color> COMING FROM THE
+        TOP!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: d2418a3ac256c8c4e91dba564baac346, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "DANCE HARDER, SIR!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 0a452987ccd86b6449be64bd7c6cba70, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "I can't! I ate too many donuts in my youth!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: c618750b6659db54aa4024cd734371b6, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "The dancing... it's killing me...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: f6336dc39d8afaa4b83aee33e0f88bba, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "But you promised, sir. You gave a promise to the people...\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: ecaa4f628d7c6c44280699861c5cc565, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "You said that we have to show them that we are equal.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 745eb0e734be7e34aaa86f1f59321aed, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Well... I guess we are not. I am fat.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 334d467d30300b14da4f35fe6b0cbbf6, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "We have to figure out something else, besides the entire congress is
+        coming for us.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 2f475ab9497c388459d492b540c0ad7f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Hey, do you remember our talk about the <color=#E3170A>letters</color>
+        traveling with us?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: e973421b2f45bbc42b42547fd8092626, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What if we became like Elon Husk and travelled to Mars?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: a5e5501ec50c7a54cbcb8c11f60d382c, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "We could steal the spaceship from congress for this mission...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 7cdb2059ac0dc1345aef9fba84f88f50, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But what if we're gonna get arrested for stealing, sir?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: fba4c8b10afc8d4418e7deb9ea39f689, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "The one thing I'm gonna be arrested for sure is...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: bb021e2055738b846bb64448c51468dc, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":speed_0.5@Ca... Ca... CARDIAC ARREST\r             "
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: d9654858e9fae2c41951cfc5e2d8188a, type: 3}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: MR. PRESIDENT IS DEAD.
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 1
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":speed_0.6@Rick... hel\r "
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 05651c843455dd24d99c668bc5f53373, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: AAAA
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 1
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 1.1
+      HideTextBox: 0
+      ShowText: "MR. PRESIDENT IS DEAD. \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 'NOT A BIG SURPRISE.  '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 1.5
+      HideTextBox: 0
+      ShowText: "(no, he is not, I'm sorry for that.) \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 1
+    interrupt: 0
+  back: -1
+  simplified: "-> [Mr. President] :changeback_2@There are too many of them!\n-> [Mr.
+    President] Do we have plan B, Rick?\n-> [Scientist Rick] WATCH OUT SIR, THERE
+    IS A BIG <color=#E3170A>B</color> COMING FROM THE TOP!\n-> [Scientist Rick] DANCE
+    HARDER, SIR!\n-> [Mr. President] I can't! I ate too many donuts in my youth!\n->
+    [Mr. President] The dancing... it's killing me...\n-> [Scientist Rick] But you
+    promised, sir. You gave a promise to the people...\n-> [Scientist Rick] You said
+    that we have to show them that we are equal.\n-> [Mr. President] Well... I guess
+    we are not. I am fat.\n-> [Mr. President] We have to figure out something else,
+    besides the entire congress is coming for us.\n-> [Mr. President] Hey, do you
+    remember our talk about the <color=#E3170A>letters</color> traveling with us?\n->
+    [Mr. President] What if we became like Elon Husk and travelled to Mars?\n-> [Mr.
+    President] We could steal the spaceship from congress for this mission...\n->
+    [Scientist Rick] But what if we're gonna get arrested for stealing, sir?\n->
+    [Mr. President] The one thing I'm gonna be arrested for sure is...\n-> [Mr. President]
+    Ca... Ca... CARDIAC ARREST\n-> [Mr. President] Rick... hel\n-> [_1,1] MR. PRESIDENT
+    IS DEAD.  \n-> [_2] NO BIG SURPRISE.  \n-> [_1,5] (no, he is not, I'm sorry for
+    that.)  \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

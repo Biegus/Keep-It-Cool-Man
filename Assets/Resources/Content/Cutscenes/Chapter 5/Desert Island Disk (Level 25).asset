@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Desert Island Disk (Level 25)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: 991395704767774720
+    type: 1
+    PlainContent:
+      Text: It's time to wake from the space coma and talk to American people like
+        a normal human, not a damn bum.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: ' '
+      EventCalled: []
+      Color: {r: 1, g: 1, b: 1, a: 1}
+      changeBack: 1
+      newBackValue: 4
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What was that noise?!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 493b547713198554aa10cbf0fa37244a, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Did we hit something?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 1ebde8d31f2a83b44bf9e64b219cfcac, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Or maybe it's my stomach...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: c22bad7386b2a0446a3e8099f37c8541, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Sir, I think the Earth blew up.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: a34cf6228cc82544c954483f02a2dea9, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Well...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 9626f2202735d8944bb07b248ceb2c76, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I guess you can say we are homeless now.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 224654df3449c25429be74dbb927c703, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677244327065812993
+    type: 0
+    PlainContent:
+      Text: Haha, get it? Get it?!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 1ee7c668031cae8438552486cc2ce095, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677244327065812994
+    type: 0
+    PlainContent:
+      Text: NOOOOOOOOOOOO
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 44b489c9c44dc8f4484696162f3de4c0, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Where will I eat the best chicken in Kentucky now?
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: aae71df4a287b4e43bdbb3d45c8f2531, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: We are slowly approaching the atmosphere of Earth, maybe some parts are
+        still intact.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 38ac25d53b19c2045a6d57c3cb90f2fa, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Alright gentlemen. I am gonna shave this gross beard.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 0da67e4a6fd64434f950016dc95c4909, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: It's time to wake from the space coma and talk to American people like
+        a normal human, not a damn bum.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 18caaba77138382449e547fd79546896, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: It's time to wake from the space coma and talk to American people like
+        a normal human, not a damn bum.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 5
+
+
+        <i>Operation Big Boom</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [_3]   \n-> [Mr. President] What was that noise?!\n-> [Mr. President]
+    Did we hit something?\n-> [Mr. President] Or maybe it's my stomach...\n-> [Scientist
+    Rick] Sir, I think the Earth blew up.\n-> [Mr. President] Well...\n-> [Mr. President]
+    I guess you can say we are homeless now.\n-> [Mr. President] Haha, get it? Get
+    it?!\n-> [Journalist Jamie] NOOOOOOOOOOOO\n-> [Journalist Jamie] Where will I
+    eat the best chicken in Kentucky now?\n-> [Scientist Rick] We are slowly approaching
+    the atmosphere of Earth, maybe some parts are still intact.\n-> [Mr. President]
+    Alright gentlemen. I am gonna shave this gross beard.\n-> [Mr. President] It's
+    time to wake from the space coma and talk to American people like a normal human,
+    not a damn bum.\n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 991395704767774720
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 5677244327065812993
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5677244327065812994
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

@@ -1,0 +1,683 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Jamie of Arc (Level 21)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: :shakeavatar@ <i>Mr. President is calling...</i>
+      Who: Phone Call
+      Sprite: {fileID: 21300000, guid: 8270f58258d5f1d4692f23c50e3d7f9f, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: <i>Mr. President is making a call...</i>
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: :speed_0.5@Hello? I want to order a Hawaiian pizza with this yellow ingredient
+        on top...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: e30c906b372c3f74e9d8851aa7dd3e16, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      rid: 1
+    type: 0
+    PlainContent:
+      Text: Hello?!
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: f949456a9901fe74eab9f6c3b52ec3bb, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 1
+    type: 0
+    PlainContent:
+      Text: Oh, Jamie, it's you! I knew I had your number somewhere!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 773603eca57a9b64b9e5cb628eed12ab, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: How are you doing?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 2f16479e7d069b0449571f4f7979dcf6, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Not actually goo
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: d279eb31d4926b249b2cac5ed03850b0, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I'm glad that you are okay.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 78c1346ac1da7ec41861ecb15c7f8173, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ...
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: So anyway, do you remember when you had so much fun dancing on the Moon?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: f1a1a7ffd0673994380d049b24395400, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: How about some salsa on Mars, hermano?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 371898cafc9ae684a86ea37fabb085a5, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I don't have any family.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 6d9a8001ead7cb24a87bed9868ce28bb, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Why do you need family for sals
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: aa828a2aa38ecf54196b9e804270a199, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: When the letters came to Earth this second time I knew that there was
+        no hope.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 18f4ec43a033c4e4ca19e3b30c86b338, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I wanted to spend the rest of my life with my family, but I don't have
+        any.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: eb6e10925738a9744b9e4dcefdeddfd3, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Tried calling my friends, but they don't pick up since I screwed them
+        in showbiz.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: aecf815e14c3ab545a9ae98cad6c46f1, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I will die alone in the bed, crushed under a big, fat F, because there
+        will be no one to pay respects.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: f3e52cf2932830040a47fae4a07a63a9, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Jamie, listen, I know it's hard.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: ce424f600618d7340bf13d94714c4546, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: General once told me that panic is like tying yourself a noose.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 645fd3da34078ec48be4aab0b2f0f86e, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: You start to suffocate, lose touch with reality.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 9e227c04c9339cf41b663ab44f0ecd0f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: You need to try to keep it cool, Jamie.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 928f51a5f5c51f24a95585e9c87584b3, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: And the curiosity of what happens next will keep you going.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: cedc4e6c115424f4ba4c4431e50fe3e2, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: You became a philosopher huh?
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: aab8b868f30165b4a9a0947970859bc5, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: So? What do you say? It's time for you to earn some respect.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 4037a542b551e244f99aa1f1b6a5853d, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I'm... I'm not sure... I will call tomorrow.
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 7c2c5a9f2a1a74a4b9b4dcd051c5ea92, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 4
+
+
+        <i>Operation Apollo</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0.5
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 4
+
+
+        <i>Operation WE GONNA DIE</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0.5
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 4
+
+
+        <i>Operation WE GONNA DIE AA</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0.5
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 4
+
+
+        <i>Operation WE GONNA DIE AAAAAAAA</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0.5
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 4
+
+
+        <i>Operation WE GONNA DIE AAAAAAAAAAAAAAAAAAA</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 1
+      newBackValue: 3
+      dontFadeOut: 0
+      dontFadeIn: 1
+    interrupt: 0
+  back: -1
+  simplified: "-> [Phone Call] <i>Mr. President is calling...</i>\n-> [Mr. President]
+    Hello? I want to order a Hawaiian pizza with this yellow ingredient on top...\n->
+    [Journalist Jamie] Hello?!\n-> [Mr. President] Oh, Jamie, it's you! I knew I
+    had your number somewhere!\n-> [Mr. President] How are you doing?\n-> [Journalist
+    Jamie] Not actually goo\n-> [Mr. President] I'm glad that you are okay.\n-> [Mr.
+    President] ...\n-> [Journalist Jamie] ...\n-> [Mr. President] ...\n-> [Journalist
+    Jamie] ...\n-> [Mr. President] So anyway, do you remember when you had so much
+    fun dancing on the Moon?\n-> [Mr. President] How about some salsa on Mars, hermano?\n->
+    [Journalist Jamie] I don't have any family.\n-> [Mr. President] Why do you need
+    family for sals\n-> [Journalist Jamie] When the letters came to Earth this second
+    time I knew that there was no hope.\n-> [Journalist Jamie] I wanted to spend
+    the rest of my life with my family, but I don't have any.\n-> [Journalist Jamie]
+    Tried calling my friends, but they don't pick up since I screwed them in showbiz.\n->
+    [Journalist Jamie] I will die alone in the bed, crushed under a big, fat F, because
+    there will be no one to pay respects.\n-> [Journalist Jamie] It's over for me,
+    Mr. President. I'm done and you won, happy now?\n-> [Mr. President] Jamie, listen,
+    I know it's hard.\n-> [Mr. President] General once told me that panic is like
+    tying yourself a noose.\n-> [Mr. President] You start to suffocate, lose touch
+    with reality.\n-> [Mr. President] You need to try to keep it cool, Jamie.\n->
+    [Mr. President] And the curiosity of what happens next will keep you going.\n->
+    [Journalist Jamie] You became a philosopher huh?\n-> [Scientist Rick] On the
+    ship we have a great psychologist. She will help us out during this trip.\n->
+    [Mr. President] So, what do you say Jamie? It's time for you to earn some respect.\n->
+    [Journalist Jamie] I'm... I'm not sure... I will call tomorrow.\n-> [_2] Start
+    of Chapter 4\\n\\n<i>Operation Apollo</i>  \n-> [_0,5] Start of Chapter 4\\n\\n<i>Operation
+    WE GONNA DIE</i>  \n-> [_0,5] Start of Chapter 4\\n\\n<i>Operation WE GONNA DIE
+    AA</i>  \n-> [_0,5] Start of Chapter 4\\n\\n<i>Operation WE GONNA DIE AAAAAAAA</i> 
+    \n-> [_0,5] Start of Chapter 4\\n\\n<i>Operation WE GONNA DIE AAAAAAAAAAAAAAAAAAA</i> 
+    \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 1
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

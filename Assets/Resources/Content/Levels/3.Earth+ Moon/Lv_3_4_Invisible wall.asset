@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv_3_4_Invisible wall
+  m_EditorClassIdentifier: 
+  preCutscene: {fileID: 0}
+  afterCutscene: {fileID: 0}
+  background: {fileID: 11400000, guid: 114a5277450cd8546a36164fee5b7a3b, type: 2}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: d2832f7b8f94c314bb91a3a2c12f7e4d, type: 2}
+  phases:
+    array:
+    - legacyTime: 15
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 9ffb606e2e176fa47a883c96314f4fdd, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 9ffb606e2e176fa47a883c96314f4fdd, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 0
+      spawnCooldown: 0.5
+      phaseName: 
+    - legacyTime: 11
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 9ffb606e2e176fa47a883c96314f4fdd, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 9ffb606e2e176fa47a883c96314f4fdd, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 6104c592e061c434db6ae5172d34c906, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 6104c592e061c434db6ae5172d34c906, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 1
+      spawnCooldown: 0.4
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 8216647681af86747aec94665fd9f25b, type: 3}
+    buildIndex: 3
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 5
+  angleError: 0
+  startText: 
+  skip: 0
+  levelName: Hermetic Ball
+  editorSelectedPhase: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.5
+        time: 15
+    - rid: 1
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.4
+        time: 11

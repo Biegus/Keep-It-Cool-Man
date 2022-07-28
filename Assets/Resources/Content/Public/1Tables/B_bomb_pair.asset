@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c491933114df459bb4986452a119b46e, type: 3}
+  m_Name: B_bomb_pair
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 818d9194ad1d0704c9f8814749d7fa8a, type: 2}
+  behaviour:
+    id: 0
+  sides: []
+  references:
+    version: 1
+    00000000:
+      type: {class: BombActionLetterSpawnBehaviour, ns: LetterBattle, asm: Kicm}
+      data:
+        defaultLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        speed: 4
+        resultTable: {fileID: 11400000, guid: 7afb93171d3ff7b43bf1555344b4b79f, type: 2}
+        howMany: {x: 2, y: 2}
+        maxPos: {x: 12, y: 12}
+        angle: 30

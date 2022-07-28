@@ -1,0 +1,446 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Grand Plan (Level 19)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Sorry, my headache is so bad lately I can't bear it. Could you repeat
+        our top secret plan?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 866416de7df41ba4b867b3cc205f694e, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Okay so, first - we ask the General to give us a spaceship, telling him
+        we need it to drop a nuke.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 386ce3fe28bb00b489e12587dd2a79f6, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 1.2
+      HideTextBox: 0
+      ShowText: Asking the General be like...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: General, our scientific council agreed unanimously that dropping a nuke
+        is the only solution.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: f1e1d58decd2cff41b5fef896a4c7891, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Finally, great news! So, you need a spaceship, right?
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 385d88333fc2bb24e977e6ddfced6194, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: That's correct...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 0921c6ad7c4995749b398ba41adb9bc7, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Ok.
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 5f9d3c457df7ea6438052b625cecf25c, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: That's deep, sir.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: MISSION PASSED
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Next - you need to convince at least 10 people to fly with us on this
+        suicidal mission...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 8fa0ab74ec24f2e4a803d9647ec96ecc, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: No problem.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 25500794b6a355b4bb44e2a877487b79, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Oh, wait. There is a problem. I only know 9 people.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 029ddc9cc918481478930b9ba7ddda96, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Hmm... that may be an issue, sir.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 0c74f4ec2f181a744948af0ea8b3cd63, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Hmm...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 38d72746af8e97943820069a2c22a46e, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: How about Jamie?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: b27cf8e86826219418ad00008abf1774, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 3
+    type: 0
+    PlainContent:
+      Text: The same Jamie that made our economy drop harder than an anime beat?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: b92f4541126733b44b2d71dae82513ad, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Yes Rick, we need anyone who can help with our mission.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 6c79ae04569f76d499cf84f6fe3d2ad2, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I know that deep down...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 3fa971ef6f885154ca26346c1248a799, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Deep deep down...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 19700aa86b3cc8b46b227603ed01f53c, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Deep deep deep down... he is a good person.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: c83e7c2f6c5e715429370a294297556b, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: That's deep, sir.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 73ce52b8686efb44aaf169a0feeb2530, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Alright, if you trust your judgment, call Jamie.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: f0a39060c3743d846947080c1275fe06, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [Mr. President] Sorry, my headache is so bad lately I can't bear
+    it. Could you repeat our top secret plan?\n-> [Scientist Rick] Okay so, first
+    - we ask the General to give us a spaceship, telling him we need it to drop a
+    nuke.\n-> [_1,2] Asking the General be like... \n-> [Scientist Rick] General,
+    our scientific council agreed in unison that dropping a nuke is the only solution.\n->
+    [General Sam] Finally, great news! So, you need a spaceship, right?\n-> [Scientist
+    Rick] That's correct...\n-> [General Sam] Ok.\n-> [_1] MISSION PASSED \n-> [Scientist
+    Rick] Next - you need to convince at least 10 people to fly with us on this suicidal
+    mission...\n-> [Mr. President] No problem.\n-> [Mr. President] Oh, wait. There
+    is a problem. I only know 9 people.\n-> [Scientist Rick] Hmm... that may be a
+    problem, sir.\n-> [Mr. President] Hmm...\n-> [Mr. President] How about Jamie?\n->
+    [Scientist Rick] The same Jamie that made our economy drop harder than an anime
+    beat?\n-> [Mr. President] Yes Rick, we need anyone who can help with our mission.\n->
+    [Mr. President] I know that deep down...\n-> [Mr. President] Deep deep down...\n->
+    [Mr. President] Deep deep deep down... he is a good person.\n-> [Scientist Rick]
+    That's deep, sir.\n-> [Scientist Rick] Alright, if you trust your judgment, call
+    Jamie.\n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 3
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0

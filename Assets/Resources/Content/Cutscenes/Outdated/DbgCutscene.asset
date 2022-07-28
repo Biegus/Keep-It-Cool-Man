@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: DbgCutscene
+  m_EditorClassIdentifier: 
+  elements:
+  - startEffect:
+      id: 0
+    type: 1
+    PlainContent:
+      Text: 'Something''s happening mate
+
+        It may be... something? i guess.'
+      Who: Scientist
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 4.02
+      HideTextBox: 1
+      ShowText: yyy idk
+      EventCalled: []
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: "I wonder what's happening on the other <color=red>side</color>\nWhat's
+        even more <i>interesting</i> is <b>that</b>\nyou can use <u>rich text</u>\t"
+      Who: Mr. President
+      Sprite: {fileID: 3482017350139557262, guid: 710dd17ef4554d64e9ec3d311714bf8e, type: 3}
+    SpecialContent:
+      Time: 4.02
+      HideTextBox: 1
+      ShowText: Somewhere else
+      EventCalled: []
+  - startEffect:
+      id: 2
+    type: 0
+    PlainContent:
+      Text: I guess it's time to check, since it's getting annoying
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 1c920eae5bd181943b32aad4279eac30, type: 3}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 1
+      ShowText: AT THE OTHER SIDE
+      EventCalled: []
+  - startEffect:
+      id: 1
+    type: 1
+    PlainContent:
+      Text: I have a beard here
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+    SpecialContent:
+      Time: 6
+      HideTextBox: 1
+      ShowText: in the alt uni
+      EventCalled: []
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: I have a beard here                                             that's
+        hell cool
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 3
+      HideTextBox: 1
+      ShowText: AT THE OTHER SIDE
+      EventCalled: []
+  references:
+    version: 1
+    00000000:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    00000001:
+      type: {class: , ns: , asm: }
+    00000002:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0

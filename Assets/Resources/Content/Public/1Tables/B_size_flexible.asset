@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c491933114df459bb4986452a119b46e, type: 3}
+  m_Name: B_size_flexible
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 50e0c5072abc94b4f95d70b2efff7694, type: 2}
+  behaviour:
+    id: 0
+  sides:
+  - id: 1
+  references:
+    version: 1
+    00000000:
+      type: {class: DirectionActionLetterSpawnBehavior, ns: LetterBattle, asm: Kicm}
+      data:
+        defaultLetters: {fileID: 0}
+        speed: 1
+        animFactor: 1
+    00000001:
+      type: {class: SizeFlexibleSideSpawnBehaviour, ns: LetterBattle, asm: Kicm}
+      data:
+        scaleTime: 2.04
+        animCurve:
+          serializedVersion: 2
+          m_Curve:
+          - serializedVersion: 3
+            time: -0.0008452673
+            value: 1.017731
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 136
+            weightedMode: 0
+            inWeight: 0.33333334
+            outWeight: 0.33333334
+          - serializedVersion: 3
+            time: 0.16105117
+            value: 1.1951714
+            inSlope: -0.7500566
+            outSlope: -0.7500566
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.33333334
+            outWeight: 0.04683688
+          - serializedVersion: 3
+            time: 1.0446503
+            value: 0.9536335
+            inSlope: -0.04212575
+            outSlope: -0.04212575
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0.13833182
+            outWeight: 0.88258743
+          - serializedVersion: 3
+            time: 1.135525
+            value: 1.0167531
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+            weightedMode: 0
+            inWeight: 0
+            outWeight: 0
+          m_PreInfinity: 2
+          m_PostInfinity: 1
+          m_RotationOrder: 4

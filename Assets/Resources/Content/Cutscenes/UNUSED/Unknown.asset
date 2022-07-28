@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Unknown
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Can't we just shut up?
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Everyone... everyone is constantly talking...
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: '"Blah blah blah"'
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: '"Blah blah blah blah"'
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Let's just enjoy the end of times, in silence, please?
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: We all think that every word is important, so we shout them as much as
+        we can.
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: And we leave others to interpret every word, even if the quality that
+        we deliver is awful.
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: Throwing shit at ourselves.
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: In this shitty dualistic nature of two pole extremes.
+      Who: 
+      Sprite: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: , ns: , asm: }

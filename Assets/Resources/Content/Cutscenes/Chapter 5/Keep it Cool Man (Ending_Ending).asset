@@ -1,0 +1,358 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Keep it Cool Man (Ending_Ending)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Humanity after this event changed forever.
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: bae845b7263f595478733a2c98d5bb33, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "There weren\u2019t any more <color=#E3170A>words</color> left to speak,
+        but instead they were danced out."
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 0abe5ce462178e54da476793128c9df5, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Nonetheless, it was only for a day.
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 3195ebe1014f76345adcac5809624901, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: And what happens next? Well, who knows...
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: dea21f7f5209971488e25594a356b99c, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Maybe the president will get bored...
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 7439c08ed0aaefa4b9c5e2e2adcb327f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Or maybe the American people will protest as their freedom is taken away
+        at the cost of safety.
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: d892b955e21173744939b3a9fae4ac75, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "For now, let\u2019s focus on the beat under our feet."
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: b395e090500798f4b92fd3f4c0f56fee, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Keep it Cool, Man
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 91aa17726d5c0374fb0666393b02e673, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Even when you sweat too much...
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 0174c908dd6f9f64cb184d2f5bff1197, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Keep it Cool, Man
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: efd037967dd8ebb42836831ce3a0e5bc, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Because life is too short for a lifetime plan.
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: edb064903a54cbd40999ebebeb444f85, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Shit, I shouldn\u2019t be talking..."
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 80a805d061fd3ee47a99f9de6715a7ad, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: 'Now there is a big <color=#E3170A>F</color> coming... '
+      Who: ???
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: 4364a7a3a6197014292faded5b2ec1b1, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: AHHHHHHHHHHHHHHHHHHHHHHHH
+      Who: Keep it Cool, Man
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 8300000, guid: aad3b48710c5246449e300fc9276f0e8, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: THE END
+      Who: Keep it Cool, Man
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2.5
+      HideTextBox: 0
+      ShowText: THE END
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: THE END
+      Who: Keep it Cool, Man
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 3.6
+      HideTextBox: 0
+      ShowText: <b>THE END?</b>
+      EventCalled: []
+      Color: {r: 0, g: 0.02745098, b: 0.1764706, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 1
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: THE END
+      Who: Keep it Cool, Man
+      Sprite: {fileID: 21300000, guid: cb067bcd6fefb5646a3e8b0ca1b916a4, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: THE END.
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 1
+    interrupt: 0
+  back: 0
+  simplified: "-> [???] Humanity after this event changed forever.\n-> [???] There
+    weren\u2019t any more <color=#E3170A>words</color> left to speak, but instead
+    they were danced out.\n-> [???] Nonetheless, it was only for a day.\n-> [???]
+    And what happens next? Well, who knows...\n-> [???] Maybe the president will
+    get bored...\n-> [???] Or maybe the American people will protest as their freedom
+    is taken away at the cost of safety.\n-> [???] For now, let\u2019s focus on the
+    beat under our feet.\n-> [???] Keep it Cool, Man\n-> [???] Even when you sweat
+    too much...\n-> [???] Keep it Cool, Man\n-> [???] Because life is too short for
+    a lifetime plan.\n-> [???] Shit, I shouldn\u2019t be talking...\n-> [???] Now
+    there is a big <color=#E3170A>F</color> coming... \n-> [Keep it Cool, Man] AHHHHHHHHHHHHHHHHHHHHHHHH\n->
+    [_2,5] THE END \n-> [_3,6] <b>THE END?</b> \n-> [_2] THE END. \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

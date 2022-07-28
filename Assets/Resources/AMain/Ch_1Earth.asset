@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615f1ea7a8a441fd92262944a39d7d54, type: 3}
+  m_Name: Ch_1Earth
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: 236f1a5737806ec438688c008e32f3cd, type: 2}
+  - {fileID: 11400000, guid: 3ac6d8eb2ab675a468620df04d6ed137, type: 2}
+  - {fileID: 11400000, guid: 9093ff6de9bed6842b774f862eef799b, type: 2}
+  - {fileID: 11400000, guid: ee0219f929072704db8de015c119208d, type: 2}
+  - {fileID: 11400000, guid: ec36513cc0d731d40bfa0d113a28f58f, type: 2}
+  - {fileID: 11400000, guid: 83f6b2a2762cc5d43a9a10215d1272cf, type: 2}
+  - {fileID: 11400000, guid: ad209a4e2fd75594191f518e7538bc41, type: 2}

@@ -1,0 +1,1 @@
+﻿github by default ignores "Debug" folder

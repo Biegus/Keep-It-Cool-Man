@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09015cf3a7334fa09e2da4dd99e3be79, type: 3}
+  m_Name: AudioMap
+  m_EditorClassIdentifier: 
+  map:
+    pairs:
+    - key: 1
+      value: {fileID: 8300000, guid: efb775e3d46b9ca4e9ef2a9f4658d3f3, type: 3}
+    - key: 4
+      value: {fileID: 8300000, guid: 22c08338a3da01743a7f78e84bc63c55, type: 3}
+    - key: 8
+      value: {fileID: 8300000, guid: b4dbe3072a49a7f4085ee6c1932d8b6c, type: 3}
+    - key: 2
+      value: {fileID: 8300000, guid: c2f28435fdd373847bd20466b01b45f9, type: 3}
+    error: 0

@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Mr. President (Level 0)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":shakeavatar@ <i><color=#F7B32B>Mr. President</color> is calling...</i>\r"
+      Who: Phone Call
+      Sprite: {fileID: 21300000, guid: 8270f58258d5f1d4692f23c50e3d7f9f, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Oh, hello:pause_0.6@? Mr. President?\r"
+      Who: Some Scientist
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: f8ea4d1a35465174daba99428213d3db, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 0}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677244327065812996
+    type: 0
+    PlainContent:
+      Text: "<color=#F7B32B>Rick</color>! There are...:pause_0.6@ <I>inaudible</I>
+        coming. WE ARE ALL GONNA:pause_0.7@ <I>inaudible</I> HERE!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 009e42ad14c01b545931055f849e2584, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677244327065812995
+    type: 0
+    PlainContent:
+      Text: "What? I can't hear you sir! Hello?!\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 051c305ffa5e75c4a95b6e5ee16d84cb, type: 3}
+    SpecialContent:
+      Time: 1.2
+      HideTextBox: 0
+      ShowText: Meanwhile...
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "I guess his call died out.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 592d1b6132be0bb4aad40366dc10dbdf, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Finally, a little break before coming down to the lab.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 95f85a628feb2b746875a165a0de1b6c, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I should first check if anything is:speed_2.3@ coming at highly dangerous
+        speeds towards the Earth:speed_0.4@, but nah...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: db094ff563c1aa34b935c15d27711e66, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "What are the odds that something is flying into the Earth right now?\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 29e8d26a723bc4847b5a1e0db32f1452, type: 3}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: 
+      Sprite: {fileID: 0}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 1.2
+      HideTextBox: 0
+      ShowText: "Meanwhile...   \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [Phone Call] :shakeavatar@ <i><color=#F7B32B>Mr. President</color>
+    is calling...</i>\n-> [Some Scientist] Oh, hello:pause_0.6@? Mr. President?\n->
+    [Mr. President] <color=#F7B32B>Rick</color>! There are...:pause_0.6@ <I>inaudible</I>
+    coming. WE ARE ALL GONNA:pause_0.7@ <I>inaudible</I> HERE!\n-> [Scientist Rick]
+    What? I can't hear you sir! Hello?!\n-> [Scientist Rick] I guess his call died
+    out.\n-> [Scientist Rick] Finally, a little break before coming down to the lab.\n->
+    [Scientist Rick] I should check first if anything is:speed_2.3@ coming at highly
+    dangerous speed towards the Earth:speed_0.4@, but eh...\n-> [Scientist Rick]
+    What are the odds that something is flying into the Earth right now?\n-> [_1,2]
+    Meanwhile...    \n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 5677244327065812995
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5677244327065812996
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

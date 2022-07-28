@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c491933114df459bb4986452a119b46e, type: 3}
+  m_Name: B_spining
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 36633e0dd08d16149b7fab29988d66b1, type: 2}
+  behaviour:
+    id: 0
+  sides:
+  - id: 1
+  references:
+    version: 1
+    00000000:
+      type: {class: DirectionActionLetterSpawnBehavior, ns: LetterBattle, asm: Kicm}
+      data:
+        defaultLetters: {fileID: 0}
+        speed: 3
+        animFactor: 1
+    00000001:
+      type: {class: SpiningSpawnBehaviour, ns: LetterBattle, asm: Kicm}
+      data:
+        frequency: 0.5

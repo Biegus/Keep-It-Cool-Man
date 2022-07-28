@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv4_Snake
+  m_EditorClassIdentifier: 
+  cutscene: {fileID: 0}
+  background: {fileID: 11400000, guid: a7490fec4a70e324bbc4c360f8ec137d, type: 2}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: d2832f7b8f94c314bb91a3a2c12f7e4d, type: 2}
+  phases:
+    array:
+    - legacyTime: 15
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 7d19ae7bd2d00ae498ab5ee8a99685bb, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 0}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 7e2600cad8b901c489d28f3cb32ad52f, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        priority: 2
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        id: 0
+      spawnCooldown: 1
+      phaseName: 
+    - legacyTime: 20
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 7d19ae7bd2d00ae498ab5ee8a99685bb, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 0}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        id: 1
+      spawnCooldown: 0.8
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 3036af0299b9f6f47947a2f3746a1b60, type: 3}
+    buildIndex: 2
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 8
+  angleError: 10
+  startText: 
+  skip: 0
+  levelName: Snake Jazz
+  editorSelectedPhase: -2
+  references:
+    version: 1
+    00000000:
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 1
+        time: 15
+    00000001:
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.8
+        time: 20

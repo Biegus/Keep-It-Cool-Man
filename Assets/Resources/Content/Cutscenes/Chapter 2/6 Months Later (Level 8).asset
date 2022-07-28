@@ -1,0 +1,502 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: 6 Months Later (Level 8)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Ahh... finally, the letters are gone from the Earth...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 76e75cc56c09039418547621246b2818, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: (6 months later...)
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "I can warm myself under the sun and not see any letter coming at me
+        at 1100 miles per second.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 2aad77dfb6825354398ea790f93fd8f1, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: ":shakeavatar@ <i>Journalist Jamie is calling...</i>\r"
+      Who: Phone Call
+      Sprite: {fileID: 21300000, guid: 8270f58258d5f1d4692f23c50e3d7f9f, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: '*phone call* '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677243978064068608
+    type: 0
+    PlainContent:
+      Text: ":changeback_1@MR. PRESIDENT, THE MOON HAS BEEN ATTACKED BY LETTERS!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: ab4e7c68ae93e9d4e88c6601b9d59e1f, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: '*phone call* '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5677243978064068609
+    type: 0
+    PlainContent:
+      Text: "HOW CAN I CELEBRATE MY RICHNESS WHEN I SEE A BIG F IN THE SKY?!\r"
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 8ef08bbae2c4dab488985967b7849299, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: HOW CAN I CELEBRATE MY RICHNESS WHEN I SEE A BIG F ON THE SKY?!
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 3.5
+      HideTextBox: 0
+      ShowText: "At the White House...  \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 1
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Mr. President, the letters. They came back.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 1b789b2299f9a7e4da12e5e42b193395, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'At the White House... '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Jesus Christ! Just like my ex-wife...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: c7caa9e9b985583478c5aba3cfc3fea1, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Well... now they are attacking the Moon apparently, sir.\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: c6c0c42b29d4f0d42a54eb6f2c7414a4, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Hmm... do we have the spaceship from Russians?\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 61a625e29b4e7d04b898ad71fe1f7f71, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "You mean the Polish people, sir?\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: cc5f121ed3b7f884f855ed36c7a9575a, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Polished spaceship? Sure, why not, you can polish it as much as you
+        want.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: cdfe27d358de58d48b76dedbdedec23f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "But remember, we don't have much time.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 42bd5e63f1d796d4cb53fdc75678adf1, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Grab the dancing machine and put it onto the ship. It's gonna be a hell
+        of a flight!\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 5e143d77db75b3f4b8d02078f781ec63, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: Moon, here we go!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: "Start of Chapter 2\n\n<i>Operation Moon</i>  \r"
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Mr. President, why not just nuke the Moon?\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: e84638b9417c0e849ad206e5290b43d6, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "General, you have gone mad. There are American investors there...\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: 3edea9d24868d44408ffadd2034aa25a, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Well, they are on the Moon, so they aren't exactly American anymore,
+        sir.\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: a37f45c5d16f100488b1dbacf49a8ddc, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "A true patriot stays with his country till the very end...\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: 69d1baacd9fded14f91442c7db7a64ba, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "And they? They were just tourists.\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: b83ff9229c9d7a84d8df6d84e90f15c3, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "Let's nuke them.\r"
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: fd3c1789d6245e54ebeb08856224e7bc, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "No, General. This is my last time warning you, I won't use any nukes.\r"
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+      Clip: {fileID: 8300000, guid: f8d05452c9f1d564da9f26a250c36d24, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 2
+
+
+        <i>Operation Moon</i>'
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 1
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [Mr. President] Ahh... finally, the letters are gone from the Earth...\n->
+    [Mr. President] I can warm myself under the sun and not see any letter coming
+    at me at 1100 miles per second.\n-> [Phone Call] <i>Journalist Jamie is calling...</i>\n->
+    [Journalist Jamie] :changeback_1@MR. PRESIDENT, THE MOON HAS BEEN ATTACKED BY
+    LETTERS!\n-> [Journalist Jamie] HOW CAN I CELEBRATE MY RICHNESS WHEN I SEE A
+    BIG F IN THE SKY?!\n-> [_3,5] At the White House...   \n-> [Scientist Rick] Mr.
+    President, the letters. They came back.\n-> [Mr. President] Jesus Christ! Just
+    like my ex-wife...\n-> [Scientist Rick] Well... now they are attacking the Moon
+    apparently, sir.\n-> [Mr. President] Hmm... do we have the spaceship from Russians?\n->
+    [Scientist Rick] You mean the Polish people, sir?\n-> [Mr. President] Polished
+    spaceship? Sure, why not, you can polish it as much as you want.\n-> [Mr. President]
+    But remember, we don't have much time.\n-> [Mr. President] Grab the dancing machine
+    and put it onto the ship. It's gonna be a hell of a flight!\n-> [_4] Start of
+    Chapter 2\\n\\n<i>Operation Moon</i>   \n-> [General Sam] Mr. President, why
+    not just nuke the Moon?\n-> [Mr. President] General, you have gone mad. There
+    are American investors there...\n-> [General Sam] Well, they are on the Moon,
+    so they aren't exactly American anymore, sir.\n-> [General Sam] A true patriot
+    stays with his country till the very end...\n-> [General Sam] And they? They
+    were just tourists.\n-> [General Sam] Let's nuke them.\n-> [Mr. President] No,
+    General. This is my last time warning you, I won't use any nukes.\n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 5677243978064068608
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5677243978064068609
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

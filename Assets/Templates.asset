@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e54ee87482c4d9ea6d8268521845489, type: 3}
+  m_Name: Templates
+  m_EditorClassIdentifier: 
+  debug: 1
+  systemTemplates:
+    List:
+    - List:
+      - packer:
+          rid: 0
+        Name: 1
+    - List:
+      - packer:
+          rid: 1
+        Name: 
+      - packer:
+          rid: 2
+        Name: tree
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List:
+      - packer:
+          rid: 3
+        Name: Scientist
+      - packer:
+          rid: 4
+        Name: Mr. President
+      - packer:
+          rid: 5
+        Name: Jamie
+      - packer:
+          rid: 6
+        Name: Scientist
+      - packer:
+          rid: 7
+        Name: Sam
+      - packer:
+          rid: 8
+        Name: Scientist Rick
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List: []
+    - List:
+      - packer:
+          rid: 9
+        Name: Typical
+  unityTemplates:
+    List:
+    - List:
+      - Value: {fileID: 8300000, guid: d465038f74114c845bc4db5bf15f1626, type: 3}
+        Name: fasf
+    - List:
+      - Value: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+        Name: scientist
+      - Value: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+        Name: Mr. President
+      - Value: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+        Name: General Sam
+      - Value: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+        Name: Jamie
+      - Value: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+        Name: Sam
+      - Value: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+        Name: Mr. President (unshaved)
+  ids:
+    pairs:
+    - key: Test/Test
+      value:
+        Index: 0
+        Mode: 0
+    - key: Test/Test2
+      value:
+        Index: 1
+        Mode: 0
+    - key: Test/DmgSound
+      value:
+        Index: 0
+        Mode: 1
+    - key: Dialogue/Who
+      value:
+        Index: 18
+        Mode: 0
+    - key: Dialogue/Sprites
+      value:
+        Index: 1
+        Mode: 1
+    - key: CustomColorSideSpawnBehaviour/Color
+      value:
+        Index: 31
+        Mode: 0
+    error: 0
+  eGroupName: Test
+  eValue: 1
+  eValueName: 1
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: IntPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: 1
+    - rid: 1
+      type: {class: FloatPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: 3
+    - rid: 2
+      type: {class: FloatPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: 3
+    - rid: 3
+      type: {class: StringPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: Scientist
+    - rid: 4
+      type: {class: StringPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: Mr. President
+    - rid: 5
+      type: {class: StringPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: Journalist Jamie
+    - rid: 6
+      type: {class: StringPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: Scientist Rick
+    - rid: 7
+      type: {class: StringPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: General Sam
+    - rid: 8
+      type: {class: StringPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: Scientist Rick
+    - rid: 9
+      type: {class: ColorPacker, ns: LetterBattle.Utility.SharedTemplate, asm: Kicm.Utility}
+      data:
+        Value: {r: 1, g: 1, b: 1, a: 1}

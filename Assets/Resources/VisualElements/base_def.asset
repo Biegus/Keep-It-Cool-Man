@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e05ea19abbc46c68b1b46572f805bf4, type: 3}
+  m_Name: base_def
+  m_EditorClassIdentifier: 
+  characters:
+    pairs:
+    - key: Scientist Rick
+      value: {fileID: 11400000, guid: 72fe852235045d8478d9afb52582fe6b, type: 2}
+    - key: Mr. President
+      value: {fileID: 11400000, guid: 65ddb97fb435ff64e99c418e4114036f, type: 2}
+    - key: General Sam
+      value: {fileID: 11400000, guid: 23b2435ae10f93042b816d76ece7488c, type: 2}
+    - key: Journalist Jamie
+      value: {fileID: 11400000, guid: c229ac146906b5a46995f89a00187734, type: 2}
+    - key: Scummy Journalist
+      value: {fileID: 11400000, guid: c229ac146906b5a46995f89a00187734, type: 2}
+    - key: Some Scientist
+      value: {fileID: 11400000, guid: 72fe852235045d8478d9afb52582fe6b, type: 2}
+    error: 0

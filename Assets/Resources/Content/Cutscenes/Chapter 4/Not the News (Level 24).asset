@@ -1,0 +1,572 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: Not the News (Level 24)
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: General Sam as the president's supervisor launched a nuke that is going
+        to rip the letters apart.
+      Who: TV
+      Sprite: {fileID: 21300000, guid: 25affb9fc06eb9b4bad1e104ea198494, type: 3}
+      Clip: {fileID: 8300000, guid: 677eac63552e24a49822ac884659e85c, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Here is his official message...
+      Who: TV
+      Sprite: {fileID: 21300000, guid: 25affb9fc06eb9b4bad1e104ea198494, type: 3}
+      Clip: {fileID: 8300000, guid: 09284084fb76a014e920dc061ce8677f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5866145283699113987
+    type: 0
+    PlainContent:
+      Text: LAUNCH THE NUKES!
+      Who: General Sam
+      Sprite: {fileID: 21300000, guid: 12edbab2ecda6ea488dbab4d15cc3e63, type: 3}
+      Clip: {fileID: 8300000, guid: fe2111e85671a4948bd740025f214dc2, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: :changeback_3@What an asshole!
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: b1bd9e63a7c61f9489d55869ae82fe18, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: What do you think, Mr. President?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 450a21e9e73f60840961d5ab72b4a926, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Excuse me for a second...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 7b154a5ba13c58048abb664b8ac0435b, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I need to go...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 1639882be84f0e7428e06ab6ce2bd71e, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: There... some...where...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 2054b094260aa3c43b0725b1aef5794a, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: This is for the dramatic effect, Rick.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 2
+      HideTextBox: 0
+      ShowText: '<i>After 10 minutes...</i> '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Mr. President, are you in the toilet?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: b71ce183c31d7a0498c55996b327ad86, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Yeah, don't come in Rick *sniff*
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 3f0120828e0279343bac15e08b427361, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: But sir, you have been sitting on the toilet for ten minutes!
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 2d3243f4507eb144a9e87f6973aa3120, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I think you should get checked... could be something dangerous...
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: c7ca8b81fbe8e864a84136866fd70c35, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 1
+    PlainContent:
+      Text: 
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 0}
+    SpecialContent:
+      Time: 1
+      HideTextBox: 0
+      ShowText: 'Door opens... '
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Sir, you know that you can shave right?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 5e6929c4f0c75744ab94c00363121a17, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: We have a razor, right here... see?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: b9d86d86514a6e84088f422655eef7f5, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: This... this is for dramatic effect, Rick.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: c7bf47e06731b3143924ac1ec80db4fc, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: I have to be sad to make those people understand...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 82e5b55fed9fe2c44839711940894c31, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: How hard it is to be a president...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 3621d8d045f696f4eabd2dd2238adbac, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: To make myself look like a human...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 88ee4064c00a50a4883d2ee0e5a3c847, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: You are not human, sir?
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 64f6c99b2f98e0e42bd4ceef8339be6f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5866145283699113985
+    type: 0
+    PlainContent:
+      Text: I knew that every president of the US was an alien!
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: be8e4689b66f8414e8e2b19bc408066f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: 5866145283699113984
+    type: 0
+    PlainContent:
+      Text: That's why <color=#F7B32B>Kennedy</color> was killed!
+      Who: Journalist Jamie
+      Sprite: {fileID: 21300000, guid: 4d1bca3ab4978cc42bdb9b24e6934422, type: 3}
+      Clip: {fileID: 8300000, guid: 1938d2dc37ed33649a5243a334e69f70, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: That's actually not true, Jamie.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 906ffed9c439b89409165861bb6ea62f, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: Kennedy was killed because
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 9f06b3fb3a250d44296bcb6656394b72, type: 3}
+      Clip: {fileID: 8300000, guid: 33c05d98cc59e9e4abeb93a438df76c3, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 1
+  - startEffect:
+      rid: 5866145283699113986
+    type: 0
+    PlainContent:
+      Text: Sir, our radar is beeping!
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: dad7a9998b41aea4391c129ae3c4ea46, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  - startEffect:
+      rid: -2
+    type: 0
+    PlainContent:
+      Text: "That can only mean <color=#E3170A>one thing</color>...\r"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+      Clip: {fileID: 8300000, guid: 601227bb063ec9649989af85b254f9c9, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      Color: {r: 0, g: 0, b: 0, a: 1}
+      changeBack: 0
+      newBackValue: 0
+      dontFadeOut: 0
+      dontFadeIn: 0
+    interrupt: 0
+  back: -1
+  simplified: "-> [TV] General Sam as the president supervisor launched a nuke that
+    is going to rip the letters apart.\n-> [TV] Here is his official message...\n->
+    [General Sam] LAUNCH THE NUKES!\n-> [Scientist Rick] :changeback_3@What an asshole!\n->
+    [Scientist Rick] What do you think, Mr. President?\n-> [Mr. President] Excuse
+    me for a second...\n-> [Mr. President] I need to go...\n-> [Mr. President] There...
+    some...where...\n-> [_2] <i>After 10 minutes...</i>  \n-> [Scientist Rick] Mr.
+    President, are you in the toilet?\n-> [Mr. President] Yeah, don't come in Rick
+    *sniff*\n-> [Scientist Rick] But sir, you have been sitting on the toilet for
+    ten minutes!\n-> [Scientist Rick] I think you should get checked... could be
+    something dangerous...\n-> [_1] Door opens...  \n-> [Scientist Rick] Sir, you
+    know that you can shave right?\n-> [Scientist Rick] We have a razor, right here...
+    see?\n-> [Mr. President] This... this is for dramatic effect, Rick.\n-> [Mr.
+    President] I have to be sad to make those people understand...\n-> [Mr. President]
+    How hard it is to be a president...\n-> [Mr. President] To make myself look like
+    a human...\n-> [Scientist Rick] You are not human, sir?\n-> [Journalist Jamie]
+    I knew that every president of America was an alien!\n-> [Journalist Jamie] That's
+    why <color=#F7B32B>Kennedy</color> was killed!\n-> [Mr. President] That's actually
+    not true, Jamie.\n-> [Mr. President] Kennedy was killed because\n-> [Scientist
+    Rick] Sir, our radar is beeping!\n-> [Scientist Rick] That can only mean <color=#E3170A>one
+    thing</color>...\n"
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
+    - rid: 5866145283699113984
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    - rid: 5866145283699113985
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5866145283699113986
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    - rid: 5866145283699113987
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0

@@ -1,0 +1,261 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14cb4c52d7654e599de4d0f1ef6898fa, type: 3}
+  m_Name: OutdatedStartChap1Cutscene
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  elements:
+  - startEffect:
+      id: 0
+    type: 0
+    PlainContent:
+      Text: "Holy crap... something is coming...\t\t\t"
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: No... it can't be..
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: I have to call <color=#F7B32B>Mr. President</color> quickly.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 2
+    type: 0
+    PlainContent:
+      Text: <color=#F7B32B>MR. PRESIDENT!</color>
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: Ye... Yes?! Why are you calling me so late, we had a talk about this
+        kind of... issues... you know...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: ' There has been a signal.'
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: Okay, so?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: Something is flying into Earth.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: Something?
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: <color=#E3170A>L... Letters</color>, sir.
+      Who: Scientist Rick
+      Sprite: {fileID: 21300000, guid: d55c1ae29c6947745b19bbc611dc1b10, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: Alright. Take the laser from the military and turn on all the lights
+        on Earth.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: We gonna bounce out this bastard <color=#E3170A>alphabet</color>.
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: We have to prepare humanity to...
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 3
+    type: 0
+    PlainContent:
+      Text: SHAKE SOME BOOTIES. AM I RIGHT?!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 0
+    PlainContent:
+      Text: WE GONNA MAKE THE BIGGEST PARTY IN THE UNIVERSE!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 0
+      HideTextBox: 0
+      ShowText: 
+      EventCalled: []
+      dontFadeOut: 0
+      dontFadeIn: 0
+  - startEffect:
+      id: 1
+    type: 1
+    PlainContent:
+      Text: LET'S SHAKE SOME BOOTIES, AM I RIGHT?!
+      Who: Mr. President
+      Sprite: {fileID: 21300000, guid: 572c5c4bcbc692046a5d3ffd5386fd09, type: 3}
+    SpecialContent:
+      Time: 4
+      HideTextBox: 0
+      ShowText: 'Start of Chapter 1
+
+
+        <i>Operation Earth</i>'
+      EventCalled: []
+      dontFadeOut: 1
+      dontFadeIn: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 0
+    00000001:
+      type: {class: , ns: , asm: }
+    00000002:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1
+    00000003:
+      type: {class: ShakeCameraCutsceneEffect, ns: LetterBattle, asm: Kicm}
+      data:
+        finite: 1

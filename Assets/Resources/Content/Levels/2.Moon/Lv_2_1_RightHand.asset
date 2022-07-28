@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv_2_1_RightHand
+  m_EditorClassIdentifier: 
+  preCutscene: {fileID: 11400000, guid: 283bf0c38e634774696f8d715a32a693, type: 2}
+  afterCutscene: {fileID: 0}
+  background: {fileID: 0}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: d2832f7b8f94c314bb91a3a2c12f7e4d, type: 2}
+  phases:
+    array:
+    - legacyTime: 14
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: be7fae1c83dbe474b8ae4c7d1ba3ccac, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: b4963c8cac0a64643a81248e54b25ae1, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 0
+      spawnCooldown: 3
+      phaseName: 
+    - legacyTime: 15
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 51721e95d5c6aa543bbc6189f1b0346f, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: b4963c8cac0a64643a81248e54b25ae1, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: cebb657badccef1429cf24a5b743dcff, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: b4963c8cac0a64643a81248e54b25ae1, type: 2}
+        priority: 2
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 5f5f5cfc03de6cf47a83f8c6f8462a98, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 5a0ed93eaa642de468b13751c16664ec, type: 2}
+        overrideLetters: {fileID: 11400000, guid: b4963c8cac0a64643a81248e54b25ae1, type: 2}
+        priority: 2
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 1
+      spawnCooldown: 0.8
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 0e1eb09ad75703646a5aa87fb275a5cc, type: 3}
+    buildIndex: 4
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 8
+  angleError: 10
+  startText: 
+  skip: 0
+  levelName: Second Hand
+  editorSelectedPhase: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 3
+        time: 14
+    - rid: 1
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.8
+        time: 15

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: lv_4_REMOVED3_Circles
+  m_EditorClassIdentifier: 
+  cutscene: {fileID: 0}
+  background: {fileID: 11400000, guid: 0dba97cb79c325f43b7effaddb079950, type: 2}
+  phases:
+    array:
+    - time: 19.8
+      spawnCooldown: 0.5
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 851987159560a1d4497ce6e9dd739110, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        overrideAngle: -1
+      - table: {fileID: 11400000, guid: cc617d604dea4eb4ca8741cb2313de87, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        overrideAngle: -1
+      phaseName: 
+    - time: 19.8
+      spawnCooldown: 0.5
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 851987159560a1d4497ce6e9dd739110, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        overrideAngle: -1
+      - table: {fileID: 11400000, guid: cc617d604dea4eb4ca8741cb2313de87, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        overrideAngle: -1
+      - table: {fileID: 11400000, guid: 722738aac3b38a545b7864db339ee593, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        overrideAngle: -1
+      - table: {fileID: 11400000, guid: 8406cdb43b631e24486d0ff10c29fbda, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        overrideAngle: -1
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 0da87ce102bf30242b5bfc639f63701c, type: 3}
+    buildIndex: 7
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  startHp: 5
+  angleError: 20
+  levelName: Sisyphus
+  editorSelectedPhase: -2

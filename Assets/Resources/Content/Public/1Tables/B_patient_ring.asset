@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c491933114df459bb4986452a119b46e, type: 3}
+  m_Name: B_patient_ring
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 78ae2f9ab01d3f048879b9b9b490b921, type: 2}
+  behaviour:
+    id: 0
+  sides: []
+  references:
+    version: 1
+    00000000:
+      type: {class: RingSpawnBehaviour, ns: LetterBattle, asm: Kicm}
+      data:
+        defaultLetters: {fileID: 0}
+        speed: 3.2
+        animFactor: 1
+        insider: {fileID: 11400000, guid: b71b2744428b570488ba7d07e49bb392, type: 2}
+        delay: 35.22
+        amount: 3
+        explodeWhenKilled: 1
+        flick: 1
+        spawnType: 1
+        changeTarget: -1
+        hideLines: 1

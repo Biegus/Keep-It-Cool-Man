@@ -1,0 +1,199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv_3_6_Army _two
+  m_EditorClassIdentifier: 
+  preCutscene: {fileID: 0}
+  afterCutscene: {fileID: 0}
+  background: {fileID: 0}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: d2832f7b8f94c314bb91a3a2c12f7e4d, type: 2}
+  phases:
+    array:
+    - legacyTime: 9
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: bd4abc14d49a3d74a93cffc2fc36f70e, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: bd4abc14d49a3d74a93cffc2fc36f70e, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 0
+      spawnCooldown: 0.5
+      phaseName: 
+    - legacyTime: 9
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 09f66da8d6f0d6747bb20b15ae116f30, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 09f66da8d6f0d6747bb20b15ae116f30, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 1
+      spawnCooldown: 1.1
+      phaseName: 
+    - legacyTime: 9
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 4e229dbad15d61e4fa576ad0c5fd82ab, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 4e229dbad15d61e4fa576ad0c5fd82ab, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: 0
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 2
+      spawnCooldown: 1.45
+      phaseName: 
+    - legacyTime: 9
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 28c1089a6c93add4aa6b437da3d13344, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 28c1089a6c93add4aa6b437da3d13344, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 3
+      spawnCooldown: 1.33
+      phaseName: 
+    - legacyTime: 9
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 73e9556afc4ceeb44b76f57f1f28e28e, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 6cb58cbb0d257ac4ebe43478e7b656b7, type: 2}
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: 73e9556afc4ceeb44b76f57f1f28e28e, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: b931ba872175e6849aececb6bddfedac, type: 2}
+        overrideLetters: {fileID: 11400000, guid: c3cf86c9497c40f46a8b487024e42d3b, type: 2}
+        priority: 1
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 4
+      spawnCooldown: 0.9
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 8216647681af86747aec94665fd9f25b, type: 3}
+    buildIndex: 4
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 8
+  angleError: 20
+  startText: 
+  skip: 0
+  levelName: Us and Them
+  editorSelectedPhase: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.5
+        time: 9
+    - rid: 1
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 1.1
+        time: 9
+    - rid: 2
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 1.45
+        time: 9
+    - rid: 3
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 1.33
+        time: 9
+    - rid: 4
+      type: {class: LegacySpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        spawnCooldown: 0.9
+        time: 9

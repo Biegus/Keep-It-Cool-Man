@@ -1,0 +1,40 @@
+{
+    "name": "Kicm",
+    "rootNamespace": "",
+    "references": [
+        "GUID:776d03a35f1b52c4a9aed9f56d7b4229",
+        "GUID:f88fb04354076c646a4107a491394033",
+        "GUID:696a0953692949b40bec8730e64e1fdd",
+        "GUID:1b845e2499b39be4aab3e6ac2c8aa02a",
+        "GUID:73106583b323919458c1e05166706ce3",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23",
+        "GUID:4129704b5a1a13841ba16f230bf24a57",
+        "GUID:5c01796d064528144a599661eaab93a6",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6546d7765b4165b40850b3667f981c26",
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:c63d2721e793d2a4fa6985cb561f2ab9",
+        "GUID:764910f4df1a06648809066f8a1ed8f1",
+        "GUID:3b21bbff634be6e40b775469e119432c",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9",
+        "GUID:46a67ded66a63de48b9329c593fc08de",
+        "GUID:3eae0364be2026648bf74846acb8a731",
+        "GUID:478a2357cc57436488a56e564b08d223",
+        "GUID:9f7106e2e8a741347b8c83283779475c",
+        "GUID:184f89dab7938ff40b4a7ca38d840a21",
+        "GUID:be281b7992e9e1840851a78ba9db107c",
+        "GUID:68bd7fdb68ef2684e982e8a9825b18a5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

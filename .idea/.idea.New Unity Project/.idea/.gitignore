@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/contentModel.xml
+/.idea.New Unity Project.iml
+# Datasource local storage ignored files
+/../../../../../../../:\CDiscProjects\Sandbox\New Unity Project\.idea\.idea.New Unity Project\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c491933114df459bb4986452a119b46e, type: 3}
+  m_Name: B_rocket_fake_pretending_to_extra_slow
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 77166eb0bc32d2646bbb73ac3f92aec4, type: 2}
+  behaviour:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: RocketActionLetterSpawnBehaviour, ns: LetterBattle, asm: Kicm}
+      data:
+        defaultLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        speed: 1.5
+        animFactor: 1
+        rotateTime: {x: 0.75, y: 0.91}
+        speedFactor: 3
+        isFake: 1

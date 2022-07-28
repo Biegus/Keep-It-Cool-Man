@@ -1,0 +1,332 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv_5_3
+  m_EditorClassIdentifier: 
+  preCutscene: {fileID: 0}
+  afterCutscene: {fileID: 0}
+  background: {fileID: 0}
+  useAssetInRankRules: 1
+  rankRulesLiteral:
+    hpMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    perfectMin:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  rankRulesAsset: {fileID: 11400000, guid: 394eb340ff0f8ce4582b46f72153eaa8, type: 2}
+  phases:
+    array:
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: e4db72ffba2ad764b830c55e9bfcdd60, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 0
+      spawnCooldown: 0
+      phaseName: 
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements: []
+      spawnController:
+        rid: 1
+      spawnCooldown: 0
+      phaseName: wait
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: cebb657badccef1429cf24a5b743dcff, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 2
+      spawnCooldown: 0
+      phaseName: fast 1
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements: []
+      spawnController:
+        rid: 3
+      spawnCooldown: 0
+      phaseName: wait
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 5d14166aa6a1aa040bcd1f3bdc67073f, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 4
+      spawnCooldown: 0
+      phaseName: fast 2
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements: []
+      spawnController:
+        rid: 5
+      spawnCooldown: 0
+      phaseName: wait
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 44cb99b9a6064d44293b4656c1833b3e, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: -1
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 6
+      spawnCooldown: 0
+      phaseName: CIRCLE
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements: []
+      spawnController:
+        rid: 7
+      spawnCooldown: 0
+      phaseName: wait
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 44cb99b9a6064d44293b4656c1833b3e, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: -1
+        customCooldown:
+          custom: 1
+          value: 4
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: e4db72ffba2ad764b830c55e9bfcdd60, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 62aa06794b82c69439c5b2b36c9f1e0c, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: 0
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 8
+      spawnCooldown: 0
+      phaseName: RANDOM BULSHIT GO
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements: []
+      spawnController:
+        rid: 9
+      spawnCooldown: 0
+      phaseName: wait
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: 0e352ce1203325742a0ba8c8878c0c59, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: c72af4836cef45a48aec9437fc7c625b, type: 2}
+        overrideLetters: {fileID: 11400000, guid: 72f21f7a2bc4dca4e943403a5fd8e10e, type: 2}
+        priority: 0
+        overrideAngle: 2
+        customCooldown:
+          custom: 0
+          value: 0
+        scaledCooldown: 0
+      spawnController:
+        rid: 10
+      spawnCooldown: 0
+      phaseName: L CIRCLE
+  scene:
+    sceneReference: {fileID: 102900000, guid: e3929ab68e3c6714392b0da26877b783, type: 3}
+    buildIndex: 6
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  disableRanks: 0
+  startHp: 5
+  angleError: 8
+  startText: 
+  skip: 0
+  levelName: Elephant in the Room
+  editorSelectedPhase: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 10
+        defCooldown: 0.9
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 1
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 3
+        defCooldown: 1
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 2
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 1
+        defCooldown: 0.3
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 3
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 2
+        defCooldown: 1
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 4
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 0.5
+        defCooldown: 0.1
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 5
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 1.5
+        defCooldown: 1
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 6
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 0.4
+        defCooldown: 0.15
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 7
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 5
+        defCooldown: 1
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 8
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 6
+        defCooldown: 0.8
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 9
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 2
+        defCooldown: 1
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4
+    - rid: 10
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 10
+        defCooldown: 3.05
+        firstExactlyAtStart: 1
+        useAnimationCurve: 0
+        curve:
+          serializedVersion: 2
+          m_Curve: []
+          m_PreInfinity: 2
+          m_PostInfinity: 2
+          m_RotationOrder: 4

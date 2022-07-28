@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9f0cca2679641e190bdae00c3abdf9a, type: 3}
+  m_Name: Lv_TEST1
+  m_EditorClassIdentifier: 
+  cutscene: {fileID: 0}
+  background: {fileID: 0}
+  phases:
+    array:
+    - legacyTime: 0
+      useAllBeforeElements: 0
+      elements:
+      - table: {fileID: 11400000, guid: cebb657badccef1429cf24a5b743dcff, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 2cfa2458d53a08744b0bedc740b0137a, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        overrideAngle: -1
+        customCooldown: 0
+        scaledCooldown: 0
+      - table: {fileID: 11400000, guid: cebb657badccef1429cf24a5b743dcff, type: 2}
+        spawnFieldCollections: {fileID: 11400000, guid: 772e7576b4983944b90f70ddb1f9c648, type: 2}
+        priority: 1
+        overrideLetters: {fileID: 11400000, guid: e2a82cf5df735d24eaa07e0432c49d85, type: 2}
+        overrideAngle: -1
+        customCooldown: 0
+        scaledCooldown: 0
+      spawnController:
+        id: 0
+      spawnCooldown: 0
+      phaseName: 
+  scene:
+    sceneReference: {fileID: 102900000, guid: 3036af0299b9f6f47947a2f3746a1b60, type: 3}
+    buildIndex: 2
+  additionalObjectsToSpawn: []
+  punishForWrong: 1
+  startHp: 5
+  angleError: 20
+  levelName: Test Test
+  editorSelectedPhase: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: IndependentSpawnController, ns: LetterBattle, asm: Kicm}
+      data:
+        time: 10
+        defCooldown: 3

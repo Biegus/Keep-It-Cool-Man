@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c491933114df459bb4986452a119b46e, type: 3}
+  m_Name: B_indecisive
+  m_EditorClassIdentifier: 
+  type: {fileID: 11400000, guid: 993337ef5d3aba6438ef509a7e2fd9cf, type: 2}
+  behaviour:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: IndecisiveActionLetterSpawnBehaviour, ns: LetterBattle, asm: Kicm}
+      data:
+        defaultLetters: {fileID: 11400000, guid: ee0e942da4f74054a8a8173b5080bf68, type: 2}
+        speed: 2
+        animFactor: 1
+        dontLoop: 0
+        phases:
+        - time: {x: 0.3, y: 0.3}
+          DecideOneForInstance: 1
+          speedModifier: 1
+        - time: {x: 0.3, y: 0.3}
+          DecideOneForInstance: 1
+          speedModifier: 1.75

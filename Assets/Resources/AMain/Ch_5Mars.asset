@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615f1ea7a8a441fd92262944a39d7d54, type: 3}
+  m_Name: Ch_5Mars
+  m_EditorClassIdentifier: 
+  levels:
+  - {fileID: 11400000, guid: 623b2abf33cd53a4ba8c3f00193179b0, type: 2}
+  - {fileID: 11400000, guid: d3622e14d8613814490a0099ba94e206, type: 2}
+  - {fileID: 11400000, guid: 527ce5e69446b9b4195aae07ee450a0b, type: 2}
+  defaultLevelPath: Assets/Resources/Content/Levels/4.Movin
