@@ -6,6 +6,8 @@ Made with Unity 2022.1.1f1.
 
 [Game is available to play on Steam for free](https://store.steampowered.com/app/2000320/Keep_it_Cool_Man)
 
+[License](/LICENSE/)
+
 
 ![ss_711af6c499591bdc462e3acd96e76715994284d2 1920x1080](https://user-images.githubusercontent.com/48364457/181496127-8f993ffa-4038-449a-b78f-c6aabc397a0e.jpg)
 
@@ -17,3 +19,5 @@ Made with Unity 2022.1.1f1.
 
 ## Building
   To build you need Unity version 2022.1.1f1. You can create build that works on Windows (x64 and x86), Linux and MacOS (if you have installed Unity packages to build for specific platform of course).
+  
+
