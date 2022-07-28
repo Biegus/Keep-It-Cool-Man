@@ -1,6 +1,6 @@
 # Keep It Cool Man
 
-An open source repository for Keep It Cool, Man game (excluding music and voice actor files).
+An open source repository for Keep It Cool, Man game (excluding music and voice actor files). Also, the repository includes files for [Keep it Ascii, Man  hidden bonus game](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/ConsoleKicm).
 
 Made with Unity 2022.1.1f1.
 
