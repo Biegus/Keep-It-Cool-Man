@@ -20,4 +20,13 @@ Made with Unity 2022.1.1f1.
 ## Building
   To build you need Unity version 2022.1.1f1. You can create build that works on Windows (x64 and x86), Linux and MacOS (if you have installed Unity packages to build for specific platform of course).
   
+## External tools included in this repository:
+- [Editor Toolbox](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/Editor%20Toolbox)
+- [Steamworks.NET](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/com.rlabrecque.steamworks.net)
+- [DiscordApi](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/Plugins/DiscordApi)
+- [Particle Attractor](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/Plugins/Particle%20Attractor%20by%20Moonflower%20Carnivore)
+- [DOTween](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/Plugins/Typical/DOTween)
+- [NaughtyAttributes](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/Plugins/Typical/NaughtyAttributes)
+- [SerializeReferenceUI](https://github.com/Biegus/Keep-It-Cool-Man/tree/main/Assets/Plugins/Typical/Textus/SerializeReferenceUI)
+  
 
